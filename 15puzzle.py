@@ -4,12 +4,14 @@ import sys
 
 def display_board( state ):
     print ("-------------")
-    print ("| %i | %i | %i |" % (state[0], state[3], state[6]))
+    print ("| %i | %i | %i | %i" % (state[0], state[4], state[8],state[12]))
     print ("-------------")
-    print ("| %i | %i | %i |" % (state[1], state[4], state[7]))
+    print ("| %i | %i | %i | %i" % (state[1], state[5], state[9],state[13]))
     print ("-------------")
-    print ("| %i | %i | %i |" % (state[2], state[5], state[8]))
+    print ("| %i | %i | %i | %i" % (state[2], state[6], state[10],state[14]))
     print ("-------------")
+    print ("| %i | %i | %i | %i" % (state[3], state[7], state[11],state[15]))
+    print ("-------------")    
 
 def move_up( state ):
     new_state = state[:]
@@ -114,7 +116,7 @@ def a_star( start, goal ):
         # take the node from the front of the queue
         node = nodes.pop(0)
         # if this node is the goal, return the moves it took to get here.
-        print ("Trying state", node.state, " and move: ", node.operator)
+        print ("Current state", node.state, " and move: ", node.operator)
         if node.state == goal:
             moves = []
             temp = node
@@ -128,7 +130,7 @@ def a_star( start, goal ):
 
 def cmp( x, y ):
     # Compare function for A*. f(n) = g(n) + h(n). I use depth (number of moves) for g().
-    return (x.depth + h( x.state, goal_state )) - (y.depth + h( x.state, goal_state ))
+    return (x.depth + h( x.state, goal_state )) - (y.depth + h( y.state, goal_state ))
 
 def h( state, goal ):
     """Heuristic for the A* search. Returns an integer based on out of place tiles"""
@@ -164,9 +166,12 @@ def readfile( filename ):
     return state
 
 def main():
-    starting_state = readfile( "state.txt" )
+    starting_state = readfile( "state1.txt" )
     print ("starting")
-    result = ids( starting_state, goal_state )
+    display_board(starting_state)
+    print("Final State")
+    display_board(goal_state)
+    result = a_star( starting_state, goal_state )
     if result == None:
         print ("No solution found")
     elif result == [None]:
