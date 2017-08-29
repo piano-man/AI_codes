@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Node	puzzle_8_bfs.py	/^class Node:$/;"	kind:class	line:132
+__init__	puzzle_8_bfs.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:133
+bfs	puzzle_8_bfs.py	/^def bfs( start, goal ):$/;"	kind:function	line:96
+bfs.py	bfs.py	1;"	kind:file	line:1
+create_node	puzzle_8_bfs.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:82
+display_board	puzzle_8_bfs.py	/^def display_board( state ):$/;"	kind:function	line:10
+expand_node	puzzle_8_bfs.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:85
+goal_state	puzzle_8_bfs.py	/^goal_state = [1, 8, 7, 2, 0, 6, 3, 4, 5]$/;"	kind:variable	line:1
+main	puzzle_8_bfs.py	/^def main():$/;"	kind:function	line:158
+move_down	puzzle_8_bfs.py	/^def move_down( state ):$/;"	kind:function	line:35
+move_left	puzzle_8_bfs.py	/^def move_left( state ):$/;"	kind:function	line:51
+move_right	puzzle_8_bfs.py	/^def move_right( state ):$/;"	kind:function	line:66
+move_up	puzzle_8_bfs.py	/^def move_up( state ):$/;"	kind:function	line:19
+puzzle_8_bfs.py	puzzle_8_bfs.py	1;"	kind:file	line:1
+readfile	puzzle_8_bfs.py	/^def readfile( filename ):$/;"	kind:function	line:145
