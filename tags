@@ -4,18 +4,73 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+15puzzle.py	15puzzle.py	1;"	kind:file	line:1
+8puzzle.py	8puzzle.py	1;"	kind:file	line:1
+Node	15puzzle.py	/^class Node:$/;"	kind:class	line:145
+Node	8puzzle.py	/^class Node:$/;"	kind:class	line:152
 Node	puzzle_8_bfs.py	/^class Node:$/;"	kind:class	line:132
+__init__	15puzzle.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:146
+__init__	8puzzle.py	/^	def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:153
 __init__	puzzle_8_bfs.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:133
+a_star	15puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:107
+a_star	8puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:124
+bfs	15puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:64
+bfs	8puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:70
 bfs	puzzle_8_bfs.py	/^def bfs( start, goal ):$/;"	kind:function	line:96
-bfs.py	bfs.py	1;"	kind:file	line:1
+cmp	15puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:131
+cmp	8puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:142
+create_node	15puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:52
+create_node	8puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:58
 create_node	puzzle_8_bfs.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:82
+dfs	15puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:80
+dfs	8puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:92
+dfs	pacman_dfs.py	/^def dfs(vertex_x, vertex_y, grid, explored_vertexes):$/;"	kind:function	line:27
+dims	pacman_try.py	/^dims = map(int, raw_input().split())$/;"	kind:variable	line:52
+display_board	15puzzle.py	/^def display_board( state ):$/;"	kind:function	line:5
+display_board	8puzzle.py	/^def display_board( state ):$/;"	kind:function	line:5
 display_board	puzzle_8_bfs.py	/^def display_board( state ):$/;"	kind:function	line:10
+ex_nodes	pacman_try.py	/^ex_nodes = []$/;"	kind:variable	line:32
+expand_node	15puzzle.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:55
+expand_node	8puzzle.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:61
 expand_node	puzzle_8_bfs.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:85
+explored	pacman_try.py	/^explored = 0$/;"	kind:variable	line:31
+find_food	pacman_try.py	/^def find_food(grid, p, f, visited, path):$/;"	kind:function	line:33
+food	pacman_try.py	/^food = map(int, raw_input().split())$/;"	kind:variable	line:51
+get_adjacent_vertexes	pacman_dfs.py	/^def get_adjacent_vertexes(vertex_x, vertex_y, grid):$/;"	kind:function	line:13
+goal_state	15puzzle.py	/^goal_state = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]$/;"	kind:variable	line:1
+goal_state	8puzzle.py	/^goal_state = [1, 4, 7, 2, 5, 8, 3, 6, 0]$/;"	kind:variable	line:1
 goal_state	puzzle_8_bfs.py	/^goal_state = [1, 8, 7, 2, 0, 6, 3, 4, 5]$/;"	kind:variable	line:1
+grid	pacman_dfs.py	/^grid = []$/;"	kind:variable	line:48
+grid	pacman_try.py	/^grid = []$/;"	kind:variable	line:53
+h	15puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:135
+h	8puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:145
+ids	15puzzle.py	/^def ids( start, goal, depth=50 ):$/;"	kind:function	line:101
+ids	8puzzle.py	/^def ids( start, goal, depth=50 ):$/;"	kind:function	line:118
+main	15puzzle.py	/^def main():$/;"	kind:function	line:168
+main	8puzzle.py	/^def main():$/;"	kind:function	line:171
 main	puzzle_8_bfs.py	/^def main():$/;"	kind:function	line:158
+move_down	15puzzle.py	/^def move_down( state ):$/;"	kind:function	line:25
+move_down	8puzzle.py	/^def move_down( state ):$/;"	kind:function	line:25
 move_down	puzzle_8_bfs.py	/^def move_down( state ):$/;"	kind:function	line:35
+move_left	15puzzle.py	/^def move_left( state ):$/;"	kind:function	line:34
+move_left	8puzzle.py	/^def move_left( state ):$/;"	kind:function	line:36
 move_left	puzzle_8_bfs.py	/^def move_left( state ):$/;"	kind:function	line:51
+move_right	15puzzle.py	/^def move_right( state ):$/;"	kind:function	line:43
+move_right	8puzzle.py	/^def move_right( state ):$/;"	kind:function	line:47
 move_right	puzzle_8_bfs.py	/^def move_right( state ):$/;"	kind:function	line:66
+move_up	15puzzle.py	/^def move_up( state ):$/;"	kind:function	line:16
+move_up	8puzzle.py	/^def move_up( state ):$/;"	kind:function	line:14
 move_up	puzzle_8_bfs.py	/^def move_up( state ):$/;"	kind:function	line:19
+nextMove	pacman_dfs.py	/^def nextMove(x, y, pacman_x, pacman_y, food_x, food_y, grid):$/;"	kind:function	line:1
+pacman	pacman_try.py	/^pacman = map(int, raw_input().split())$/;"	kind:variable	line:50
+pacman_dfs.py	pacman_dfs.py	1;"	kind:file	line:1
+pacman_try.py	pacman_try.py	1;"	kind:file	line:1
+print_grid	pacman_try.py	/^def print_grid(grid):$/;"	kind:function	line:4
 puzzle_8_bfs.py	puzzle_8_bfs.py	1;"	kind:file	line:1
+readfile	15puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:158
+readfile	8puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:160
 readfile	puzzle_8_bfs.py	/^def readfile( filename ):$/;"	kind:function	line:145
+res	pacman_try.py	/^res = find_food(grid, pacman, food, visited, [pacman])$/;"	kind:variable	line:59
+unvisited	pacman_try.py	/^def unvisited(rows, cols):$/;"	kind:function	line:8
+unvisited_neighbourhood	pacman_try.py	/^def unvisited_neighbourhood(grid, x, v):$/;"	kind:function	line:14
+visited	pacman_try.py	/^visited = unvisited(len(grid), len(grid[0]))$/;"	kind:variable	line:58
