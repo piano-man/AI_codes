@@ -174,7 +174,7 @@ def main():
 	display_board(starting_state)
 	print("final state")
 	display_board(goal_state)
-	result = bfs( starting_state, goal_state )
+	result = dfs( starting_state, goal_state )
 	if result == None:
 		print "No solution found"
 	elif result == [None]:

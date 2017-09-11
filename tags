@@ -6,71 +6,97 @@
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
 15puzzle.py	15puzzle.py	1;"	kind:file	line:1
 8puzzle.py	8puzzle.py	1;"	kind:file	line:1
+GRAPH	romanian_path.py	/^        }$/;"	kind:variable	line:22
+Line	tic_tac_toe.py	/^class Line:$/;"	kind:class	line:3
+MOVES	p.py	/^MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:5
+MOVES	p_bfs.py	/^MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:3
 Node	15puzzle.py	/^class Node:$/;"	kind:class	line:145
 Node	8puzzle.py	/^class Node:$/;"	kind:class	line:152
-Node	puzzle_8_bfs.py	/^class Node:$/;"	kind:class	line:132
+Node	bot_clean.py	/^class Node:$/;"	kind:class	line:1
+Node	tic_tac_toe.py	/^class Node:$/;"	kind:class	line:43
+State	missionary_cannibal.py	/^class State():$/;"	kind:class	line:6
+__eq__	missionary_cannibal.py	/^	def __eq__(self, other):$/;"	kind:member	line:30
+__hash__	missionary_cannibal.py	/^	def __hash__(self):$/;"	kind:member	line:35
 __init__	15puzzle.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:146
 __init__	8puzzle.py	/^	def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:153
-__init__	puzzle_8_bfs.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:133
+__init__	bot_clean.py	/^    def __init__(self, x=0, y=0):$/;"	kind:member	line:2
+__init__	missionary_cannibal.py	/^	def __init__(self, cannibalLeft, missionaryLeft, boat, cannibalRight, missionaryRight):$/;"	kind:member	line:7
+__init__	tic_tac_toe.py	/^    def __init__(self, neighbor_a, neighbor_b):$/;"	kind:member	line:4
+__init__	tic_tac_toe.py	/^    def __init__(self, x=0, y=0, is_enemy=None):$/;"	kind:member	line:44
+__str__	tic_tac_toe.py	/^    def __str__(self):$/;"	kind:member	line:50
 a_star	15puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:107
 a_star	8puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:124
+adj_nodes	pacman_self_dfs.py	/^def adj_nodes(grid,current_cor):$/;"	kind:function	line:6
 bfs	15puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:64
 bfs	8puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:70
-bfs	puzzle_8_bfs.py	/^def bfs( start, goal ):$/;"	kind:function	line:96
+bfs	p_bfs.py	/^def bfs(grid, source, goal):$/;"	kind:function	line:17
+board	bot_clean.py	/^    board = [[j for j in input().strip()] for i in range(5)]$/;"	kind:variable	line:82
+board	bot_clean.py	/^board=[]$/;"	kind:variable	line:11
+board	tic_tac_toe.py	/^board = []$/;"	kind:variable	line:111
+bot_clean.py	bot_clean.py	1;"	kind:file	line:1
+bot_princess.py	bot_princess.py	1;"	kind:file	line:1
+breadth_first_search	missionary_cannibal.py	/^def breadth_first_search():$/;"	kind:function	line:104
+build_neighbor_node	tic_tac_toe.py	/^def build_neighbor_node(x, y, board, player):$/;"	kind:function	line:100
+calc_weight	tic_tac_toe.py	/^    def calc_weight(self):$/;"	kind:member	line:8
 cmp	15puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:131
 cmp	8puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:142
 create_node	15puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:52
 create_node	8puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:58
-create_node	puzzle_8_bfs.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:82
 dfs	15puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:80
 dfs	8puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:92
-dfs	pacman_dfs.py	/^def dfs(vertex_x, vertex_y, grid, explored_vertexes):$/;"	kind:function	line:27
-dims	pacman_try.py	/^dims = map(int, raw_input().split())$/;"	kind:variable	line:52
+dfs	pacman_self_dfs.py	/^def dfs(grid,start_pos,end_pos):$/;"	kind:function	line:20
+dfs_paths	romanian_path.py	/^def dfs_paths(source, destination, path=None):$/;"	kind:function	line:24
+dirty_nodes	bot_clean.py	/^dirty_nodes = []$/;"	kind:variable	line:8
 display_board	15puzzle.py	/^def display_board( state ):$/;"	kind:function	line:5
 display_board	8puzzle.py	/^def display_board( state ):$/;"	kind:function	line:5
-display_board	puzzle_8_bfs.py	/^def display_board( state ):$/;"	kind:function	line:10
-ex_nodes	pacman_try.py	/^ex_nodes = []$/;"	kind:variable	line:32
+distTo	bot_clean.py	/^    def distTo(self, target):$/;"	kind:member	line:6
 expand_node	15puzzle.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:55
 expand_node	8puzzle.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:61
-expand_node	puzzle_8_bfs.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:85
-explored	pacman_try.py	/^explored = 0$/;"	kind:variable	line:31
-find_food	pacman_try.py	/^def find_food(grid, p, f, visited, path):$/;"	kind:function	line:33
-food	pacman_try.py	/^food = map(int, raw_input().split())$/;"	kind:variable	line:51
-get_adjacent_vertexes	pacman_dfs.py	/^def get_adjacent_vertexes(vertex_x, vertex_y, grid):$/;"	kind:function	line:13
 goal_state	15puzzle.py	/^goal_state = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]$/;"	kind:variable	line:1
 goal_state	8puzzle.py	/^goal_state = [1, 4, 7, 2, 5, 8, 3, 6, 0]$/;"	kind:variable	line:1
-goal_state	puzzle_8_bfs.py	/^goal_state = [1, 8, 7, 2, 0, 6, 3, 4, 5]$/;"	kind:variable	line:1
-grid	pacman_dfs.py	/^grid = []$/;"	kind:variable	line:48
-grid	pacman_try.py	/^grid = []$/;"	kind:variable	line:53
+grid	bot_princess.py	/^grid = []$/;"	kind:variable	line:36
 h	15puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:135
 h	8puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:145
 ids	15puzzle.py	/^def ids( start, goal, depth=50 ):$/;"	kind:function	line:101
 ids	8puzzle.py	/^def ids( start, goal, depth=50 ):$/;"	kind:function	line:118
+is_center_point	tic_tac_toe.py	/^    def is_center_point(self):$/;"	kind:member	line:53
+is_goal	missionary_cannibal.py	/^	def is_goal(self):$/;"	kind:member	line:15
+is_valid	missionary_cannibal.py	/^	def is_valid(self):$/;"	kind:member	line:21
+iterative_dfs	p.py	/^def iterative_dfs(grid, source, goal):$/;"	kind:function	line:19
+m	bot_princess.py	/^m = input()$/;"	kind:variable	line:34
 main	15puzzle.py	/^def main():$/;"	kind:function	line:168
 main	8puzzle.py	/^def main():$/;"	kind:function	line:171
-main	puzzle_8_bfs.py	/^def main():$/;"	kind:function	line:158
+main	missionary_cannibal.py	/^def main():$/;"	kind:function	line:136
+main	p.py	/^def main():$/;"	kind:function	line:34
+main	p_bfs.py	/^def main():$/;"	kind:function	line:32
+main	pacman_self_dfs.py	/^def main():$/;"	kind:function	line:41
+main	romanian_path.py	/^def main():$/;"	kind:function	line:32
+missionary_cannibal.py	missionary_cannibal.py	1;"	kind:file	line:1
+move	bot_clean.py	/^move=' '$/;"	kind:variable	line:9
 move_down	15puzzle.py	/^def move_down( state ):$/;"	kind:function	line:25
 move_down	8puzzle.py	/^def move_down( state ):$/;"	kind:function	line:25
-move_down	puzzle_8_bfs.py	/^def move_down( state ):$/;"	kind:function	line:35
 move_left	15puzzle.py	/^def move_left( state ):$/;"	kind:function	line:34
 move_left	8puzzle.py	/^def move_left( state ):$/;"	kind:function	line:36
-move_left	puzzle_8_bfs.py	/^def move_left( state ):$/;"	kind:function	line:51
+move_next	p.py	/^def move_next(grid, coordinate):$/;"	kind:function	line:8
+move_next	p_bfs.py	/^def move_next(grid, coordinate):$/;"	kind:function	line:6
 move_right	15puzzle.py	/^def move_right( state ):$/;"	kind:function	line:43
 move_right	8puzzle.py	/^def move_right( state ):$/;"	kind:function	line:47
-move_right	puzzle_8_bfs.py	/^def move_right( state ):$/;"	kind:function	line:66
 move_up	15puzzle.py	/^def move_up( state ):$/;"	kind:function	line:16
 move_up	8puzzle.py	/^def move_up( state ):$/;"	kind:function	line:14
-move_up	puzzle_8_bfs.py	/^def move_up( state ):$/;"	kind:function	line:19
-nextMove	pacman_dfs.py	/^def nextMove(x, y, pacman_x, pacman_y, food_x, food_y, grid):$/;"	kind:function	line:1
-pacman	pacman_try.py	/^pacman = map(int, raw_input().split())$/;"	kind:variable	line:50
-pacman_dfs.py	pacman_dfs.py	1;"	kind:file	line:1
-pacman_try.py	pacman_try.py	1;"	kind:file	line:1
-print_grid	pacman_try.py	/^def print_grid(grid):$/;"	kind:function	line:4
-puzzle_8_bfs.py	puzzle_8_bfs.py	1;"	kind:file	line:1
+moves	pacman_self_dfs.py	/^moves = [[-1,0],[0,-1],[0,1],[1,0]]$/;"	kind:variable	line:3
+nextMove	bot_princess.py	/^def nextMove(m, grid):$/;"	kind:function	line:1
+next_move	bot_clean.py	/^def next_move(posx, posy, board):$/;"	kind:function	line:14
+next_move	tic_tac_toe.py	/^def next_move(player, board):$/;"	kind:function	line:57
+p.py	p.py	1;"	kind:file	line:1
+p_bfs.py	p_bfs.py	1;"	kind:file	line:1
+pacman_self_bfs.py	pacman_self_bfs.py	1;"	kind:file	line:1
+pacman_self_dfs.py	pacman_self_dfs.py	1;"	kind:file	line:1
+player	tic_tac_toe.py	/^player = raw_input()$/;"	kind:variable	line:108
+pos	bot_clean.py	/^    pos = [int(i) for i in input().strip().split()]$/;"	kind:variable	line:81
+print_move	bot_clean.py	/^def print_move(delta_x, delta_y,x,y,board):$/;"	kind:function	line:46
+print_solution	missionary_cannibal.py	/^def print_solution(solution):$/;"	kind:function	line:122
 readfile	15puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:158
 readfile	8puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:160
-readfile	puzzle_8_bfs.py	/^def readfile( filename ):$/;"	kind:function	line:145
-res	pacman_try.py	/^res = find_food(grid, pacman, food, visited, [pacman])$/;"	kind:variable	line:59
-unvisited	pacman_try.py	/^def unvisited(rows, cols):$/;"	kind:function	line:8
-unvisited_neighbourhood	pacman_try.py	/^def unvisited_neighbourhood(grid, x, v):$/;"	kind:function	line:14
-visited	pacman_try.py	/^visited = unvisited(len(grid), len(grid[0]))$/;"	kind:variable	line:58
+romanian_path.py	romanian_path.py	1;"	kind:file	line:1
+successors	missionary_cannibal.py	/^def successors(cur_state):$/;"	kind:function	line:38
+tic_tac_toe.py	tic_tac_toe.py	1;"	kind:file	line:1

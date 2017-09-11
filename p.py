@@ -1,4 +1,3 @@
-'''SOLVING PACMAN PROBLEM USING DFS'''
 
 from copy import deepcopy
 
@@ -7,7 +6,6 @@ MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]
 ROWS, COLUMNS = 0, 0
 
 def move_next(grid, coordinate):
-    '''GETS NEXT VALID MOVES IN ALL FOUR DIRECTIONS FROM CURRENT COORDINATE'''
     next_moves = []
     for MOVE in MOVES:
         next_x, next_y = coordinate['x'] + MOVE[0], coordinate['y'] + MOVE[1]
@@ -19,7 +17,6 @@ def move_next(grid, coordinate):
     return next_moves
 
 def iterative_dfs(grid, source, goal):
-    '''ITERATIVE DEPTH-FIRST SEARCH FROM SOURCE TO GOAL'''
     stack = [[source, []]]
     nodes_explored, path = [], None
     while stack:
@@ -35,7 +32,6 @@ def iterative_dfs(grid, source, goal):
     return nodes_explored, path
 
 def main():
-    '''MAIN METHOD'''
     pacman_row, pacman_column = map(int, input().strip().split())
     food_row, food_column = map(int, input().strip().split())
     global ROWS, COLUMNS

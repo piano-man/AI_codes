@@ -22,7 +22,6 @@ GRAPH = {\
         }
 
 def dfs_paths(source, destination, path=None):
-    '''ALL POSSIBLE PATHS FROM SOURCE TO DESTINATION USING DEPTH-FIRST SEARCH'''
     if path is None:
         path = [source]
     if source == destination:
@@ -31,7 +30,6 @@ def dfs_paths(source, destination, path=None):
         yield from dfs_paths(next_node, destination, path + [next_node])
 
 def main():
-    '''MAIN FUNCTION'''
     print('ENTER SOURCE :', end=' ')
     source = input().strip()
     print('ENTER GOAL :', end=' ')

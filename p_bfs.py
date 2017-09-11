@@ -4,7 +4,6 @@ MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]
 ROWS, COLUMNS = 0, 0
 
 def move_next(grid, coordinate):
-    '''GETS NEXT VALID MOVES IN ALL FOUR DIRECTIONS FROM CURRENT COORDINATE'''
     next_moves = []
     for move in MOVESS:
         next_x, next_y = coordinate['x'] + move[0], coordinate['y'] + move[1]
@@ -16,7 +15,6 @@ def move_next(grid, coordinate):
     return next_moves
 
 def bfs(grid, source, goal):
-    '''BREADTH-FIRST SEARCH FROM SOURCE TO GOAL'''
     queue = [[source, []]]
     nodes_explored, path = [], None
     while queue:
@@ -32,7 +30,6 @@ def bfs(grid, source, goal):
     return nodes_explored, path
 
 def main():
-    '''MAIN METHOD'''
     pacman_row, pacman_column = map(int, input().strip().split())
     food_row, food_column = map(int, input().strip().split())
     global ROWS, COLUMNS
