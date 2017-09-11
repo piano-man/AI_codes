@@ -1,4 +1,7 @@
 goal_state = [1, 4, 7, 2, 5, 8, 3, 6, 0]
+from collections import defaultdict
+
+
 
 import sys
 
@@ -70,13 +73,15 @@ def expand_node( node, nodes ):
 def bfs( start, goal ):
 
 	nodes = []
-	
+	explored = set()
+
 	nodes.append( create_node( start, None, None, 0, 0 ) )
 	while True:
-
+		
 		if len( nodes ) == 0: return None
 
 		node = nodes.pop(0)
+
 
 		if node.state == goal:
 			moves = []
@@ -85,9 +90,14 @@ def bfs( start, goal ):
 				moves.insert(0, temp.operator)
 				if temp.depth == 1: break
 				temp = temp.parent
-			return moves				
-
-		nodes.extend( expand_node( node, nodes ) )
+			return moves
+		explored.add(node)
+				
+		rel = expand_node( node, nodes )
+		for child in rel:
+			if (child not in explored) or (child not in nodes):
+				nodes.append(child)
+		
 
 def dfs( start, goal, depth=10 ):
 
@@ -133,10 +143,11 @@ def a_star( start, goal ):
 			moves = []
 			temp = node
 			while True:
-				moves.insert( 0, temp.operator )
-				if temp.depth <=1: break
-				temp = temp.parent
-			return moves
+				if (temp) is not None:
+					moves.insert( 0, temp.operator )
+					if temp.depth <=1: break
+					temp = temp.parent
+				return moves
 		nodes.extend( expand_node( node, nodes ) )
 		
 def cmp( x, y ):
@@ -169,6 +180,7 @@ def readfile( filename ):
 
 # Main method
 def main():
+
 	starting_state = readfile( "state.txt" )
 	print("starting")
 	display_board(starting_state)
@@ -182,6 +194,7 @@ def main():
 	else:
 		print result
 		print "number of moves",len(result)
+
 
 if __name__ == "__main__":
 	main()
