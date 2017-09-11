@@ -7,7 +7,6 @@ class Node:
         return abs(target.x - self.x) + abs(target.y - self.y)
 dirty_nodes = []
 move=' '
-global board
 board=[]
 near_flag=0
 nearest_node  = None
