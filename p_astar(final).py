@@ -22,7 +22,7 @@ def get_cost(n1):
     global goal
     #print(goal)
     #print(n1)
-    return (n1['x']-goal['x']+n1['y']-goal['y'])
+    return abs(n1['x']-goal['x'])+abs(n1['y']-goal['y'])
 
 def a_star(grid, source, goal):
     queue = [[source, []]]
