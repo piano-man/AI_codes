@@ -1,5 +1,5 @@
 '''ALL POSSIBLE PATH PROBLEM FOR ROMANIAN CITIES'''
-
+from queue import PriorityQueue,Queue
 GRAPH = {\
             'Arad': {'Sibiu': 140, 'Zerind': 75, 'Timisoara': 118},\
             'Zerind': {'Arad': 75, 'Oradea': 71},\
@@ -88,6 +88,25 @@ def a_star(source, destination):
                 visited[next_node] = heuristic
                 priority_queue.put((heuristic, current_cost, next_node, path + [next_node]))
 
+def bfs(source,destination):
+    q=Queue()
+    q.put((source,[source]))
+    visited = {}
+    #visited[source]=True
+    while not q.empty():
+        vertex,path=q.get()
+        #visited[vertex]=True
+        
+        for next_node in GRAPH[vertex].keys():
+            if next_node==destination:
+                yield path+[next_node]
+            else:
+                if next_node not in path:
+                    q.put((next_node,path+[next_node]))
+     
+
+
+
 def main():
     '''MAIN FUNCTION'''
     print('ENTER SOURCE :', end=' ')
@@ -110,6 +129,9 @@ def main():
         print('HEURISTIC = ', heuristic)
         print('PATH COST =', cost)
         print(' -> '.join(city for city in optimal_path))
+        paths=bfs(source,goal)
+        for path in paths:
+            print(path)
 
 if __name__ == '__main__':
     main()
