@@ -97,7 +97,7 @@ if __name__ == "__main__":
         for j in range(len(board[i])):
 
             if board[i][j] == "d":
-                dirty_nodes.append(Node(j, i))
+                dirty_nodes.append(Node(i, j))
     
     while dirty_nodes:
         print(pos[0],pos[1])

@@ -35,8 +35,6 @@ def print_all_util(graph,s,d,visited,path):
     path.pop()
     visited[s]=False
 
-
-
 def print_all(graph,s,d):
     visited={}
     visited = defaultdict(lambda:False,visited)
