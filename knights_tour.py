@@ -5,6 +5,7 @@ class vaccum:
         self.parent = parent
         self.x = x
         self.y = y
+        self.grid = []
 
 def create_node (parent, x, y):
     return vaccum(parent, x, y)
