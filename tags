@@ -6,35 +6,55 @@
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
 15puzzle.py	15puzzle.py	1;"	kind:file	line:1
 8puzzle.py	8puzzle.py	1;"	kind:file	line:1
+DIRECTIONS	p_ucs(final).py	/^DIRECTIONS = ['UP', 'LEFT', 'RIGHT', 'DOWN']$/;"	kind:variable	line:5
+DIRECTIONS	vacuum_bfs.py	/^DIRECTIONS = ['UP', 'DOWN', 'LEFT', 'RIGHT', 'SUCK']$/;"	kind:variable	line:4
+GRAPH	romanian_astar.py	/^        }$/;"	kind:variable	line:24
 GRAPH	romanian_path.py	/^        }$/;"	kind:variable	line:22
+GRAPH	test.py	/^        }$/;"	kind:variable	line:31
+GRID_SIZE	vacuum_bfs.py	/^GRID_SIZE = 0$/;"	kind:variable	line:3
 Line	tic_tac_toe.py	/^class Line:$/;"	kind:class	line:3
 MOVES	gem.py	/^MOVES = [[-1, 0],[1,1],[-1,-1],[-1,1],[1,-1],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:3
 MOVES	p_astar(final).py	/^MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:4
 MOVES	p_bfs(final).py	/^MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:3
 MOVES	p_dfs(final).py	/^MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:5
+MOVES	p_ucs(final).py	/^MOVES = {'UP':[-1, 0], 'LEFT':[0, -1], 'RIGHT':[0, 1], 'DOWN':[1, 0]}$/;"	kind:variable	line:6
+MOVES	vacuum_bfs.py	/^MOVES = {'UP':[-1, 0], 'DOWN':[1, 0], 'LEFT':[0, -1], 'RIGHT':[0, 1], 'SUCK':[0, 0]}$/;"	kind:variable	line:5
 N	nqueen.py	/^N = 4$/;"	kind:variable	line:5
 Node	15puzzle.py	/^class Node:$/;"	kind:class	line:145
 Node	8puzzle.py	/^class Node:$/;"	kind:class	line:163
 Node	bot_clean.py	/^class Node:$/;"	kind:class	line:1
 Node	tic_tac_toe.py	/^class Node:$/;"	kind:class	line:43
+Node	vacuum_bfs.py	/^class Node(object):$/;"	kind:class	line:7
+Rpath	test.py	/^class Rpath:$/;"	kind:class	line:2
 State	missionary_cannibal.py	/^class State():$/;"	kind:class	line:6
 __eq__	missionary_cannibal.py	/^	def __eq__(self, other):$/;"	kind:member	line:30
 __hash__	missionary_cannibal.py	/^	def __hash__(self):$/;"	kind:member	line:35
 __init__	15puzzle.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:146
 __init__	8puzzle.py	/^	def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:164
 __init__	bot_clean.py	/^    def __init__(self, x=0, y=0):$/;"	kind:member	line:2
+__init__	knights_tour.py	/^    def __init__(self, parent, x, y):$/;"	kind:member	line:4
 __init__	missionary_cannibal.py	/^	def __init__(self, cannibalLeft, missionaryLeft, boat, cannibalRight, missionaryRight):$/;"	kind:member	line:7
+__init__	test.py	/^    def __init__(self, parent, place):$/;"	kind:member	line:3
 __init__	tic_tac_toe.py	/^    def __init__(self, neighbor_a, neighbor_b):$/;"	kind:member	line:4
 __init__	tic_tac_toe.py	/^    def __init__(self, x=0, y=0, is_enemy=None):$/;"	kind:member	line:44
+__init__	vacuum_bfs.py	/^    def __init__(self, grid, cleaner, move, parent):$/;"	kind:member	line:8
+__init__	vcuum_bfs_self.py	/^    def __init__(self, parent, x, y,n,m):$/;"	kind:member	line:3
 __str__	tic_tac_toe.py	/^    def __str__(self):$/;"	kind:member	line:50
 a_star	15puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:107
 a_star	8puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:134
 a_star	p_astar(final).py	/^def a_star(grid, source, goal):$/;"	kind:function	line:27
+a_star	romanian_astar.py	/^def a_star(source, destination):$/;"	kind:function	line:51
+adj	knights_tour.py	/^adj = []$/;"	kind:variable	line:80
+adj	vcuum_bfs_self.py	/^adj = []$/;"	kind:variable	line:92
 ans	student_placement.py	/^        ans = solve(graph,matrix,visit,m,n,0)$/;"	kind:variable	line:95
 bfs	15puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:64
 bfs	8puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:73
 bfs	gem.py	/^def bfs(grid, source, goal):$/;"	kind:function	line:16
+bfs	knights_tour.py	/^def bfs(adj, vis, x, y, n, m):$/;"	kind:function	line:46
 bfs	p_bfs(final).py	/^def bfs(grid, source, goal):$/;"	kind:function	line:17
+bfs	romanian_astar.py	/^def bfs(source,destination):$/;"	kind:function	line:91
+bfs	vacuum_bfs.py	/^def bfs(cleaner, grid):$/;"	kind:function	line:38
+bfs	vcuum_bfs_self.py	/^def bfs(adj, vis, x, y, n, m):$/;"	kind:function	line:42
 board	bot_clean.py	/^    board = [[j for j in input().strip()] for i in range(5)]$/;"	kind:variable	line:94
 board	bot_clean.py	/^board=[]$/;"	kind:variable	line:10
 board	tic_tac_toe.py	/^board = []$/;"	kind:variable	line:111
@@ -49,22 +69,35 @@ cmp	15puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:131
 cmp	8puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:153
 create_node	15puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:52
 create_node	8puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:61
+create_node	knights_tour.py	/^def create_node (parent, x, y):$/;"	kind:function	line:9
+create_node	test.py	/^def create_node( parent, node):$/;"	kind:function	line:7
+create_node	vcuum_bfs_self.py	/^def create_node (parent, x, y,n,m):$/;"	kind:function	line:12
 dfs	15puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:80
 dfs	8puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:102
+dfs_paths	romanian_astar.py	/^def dfs_paths(source, destination, path=None):$/;"	kind:function	line:26
 dfs_paths	romanian_path.py	/^def dfs_paths(source, destination, path=None):$/;"	kind:function	line:24
+dfs_paths	test.py	/^def dfs_paths(source, destination, path):$/;"	kind:function	line:33
 dirty_nodes	bot_clean.py	/^dirty_nodes = []$/;"	kind:variable	line:8
 display_board	15puzzle.py	/^def display_board( state ):$/;"	kind:function	line:5
 display_board	8puzzle.py	/^def display_board( state ):$/;"	kind:function	line:8
+display_result	knights_tour.py	/^def display_result(node, x, y):$/;"	kind:function	line:63
+display_result	vcuum_bfs_self.py	/^def display_result(node, x, y):$/;"	kind:function	line:73
 distTo	bot_clean.py	/^    def distTo(self, target):$/;"	kind:member	line:6
 expand_node	15puzzle.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:55
 expand_node	8puzzle.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:64
+expand_nodes	knights_tour.py	/^def expand_nodes (node, n, m):$/;"	kind:function	line:25
+expand_nodes	vacuum_bfs.py	/^def expand_nodes(node, visited):$/;"	kind:function	line:34
+expand_nodes	vcuum_bfs_self.py	/^def expand_nodes (node, n, m):$/;"	kind:function	line:28
 flag	student_placement.py	/^            flag = 1$/;"	kind:variable	line:97
 flag	student_placement.py	/^    flag = 0$/;"	kind:variable	line:88
 gem.py	gem.py	1;"	kind:file	line:1
 getX	student_placement.py	/^def getX(index, m,n):$/;"	kind:function	line:3
 getY	student_placement.py	/^def getY(index,m,n):$/;"	kind:function	line:7
 get_cost	p_astar(final).py	/^def get_cost(n1):$/;"	kind:function	line:21
+get_state_tuple	vacuum_bfs.py	/^def get_state_tuple(node):$/;"	kind:function	line:21
+goal	knights_tour.py	/^def goal(vis, n, m):$/;"	kind:function	line:12
 goal	p_astar(final).py	/^goal = dict()$/;"	kind:variable	line:6
+goal	vcuum_bfs_self.py	/^def goal(vis, n, m):$/;"	kind:function	line:15
 goal_state	15puzzle.py	/^goal_state = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]$/;"	kind:variable	line:1
 goal_state	8puzzle.py	/^goal_state = [1, 4, 7, 2, 5, 8, 3, 6, 0]$/;"	kind:variable	line:1
 graph	romanian_path_self.py	/^        }$/;"	kind:variable	line:24
@@ -74,12 +107,17 @@ h	15puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:135
 h	8puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:156
 ids	15puzzle.py	/^def ids( start, goal, depth=50 ):$/;"	kind:function	line:101
 ids	8puzzle.py	/^def ids( start, goal, depth=50 ):$/;"	kind:function	line:128
+inside_grid	vacuum_bfs.py	/^    def inside_grid(self):$/;"	kind:member	line:17
 isSafe	nqueen.py	/^def isSafe(board, row, col):$/;"	kind:function	line:20
 is_center_point	tic_tac_toe.py	/^    def is_center_point(self):$/;"	kind:member	line:53
 is_goal	missionary_cannibal.py	/^	def is_goal(self):$/;"	kind:member	line:15
+is_goal	vacuum_bfs.py	/^    def is_goal(self):$/;"	kind:member	line:14
 is_safe	student_placement.py	/^def is_safe(x,y,m,n):$/;"	kind:function	line:15
 is_valid	missionary_cannibal.py	/^	def is_valid(self):$/;"	kind:member	line:21
+isvalid	knights_tour.py	/^def isvalid(x, y, n, m):$/;"	kind:function	line:19
+isvalid	vcuum_bfs_self.py	/^def isvalid(node,x, y, n, m):$/;"	kind:function	line:22
 iterative_dfs	p_dfs(final).py	/^def iterative_dfs(grid, source, goal):$/;"	kind:function	line:19
+knights_tour.py	knights_tour.py	1;"	kind:file	line:1
 m	bot_princess.py	/^m = input()$/;"	kind:variable	line:34
 main	15puzzle.py	/^def main():$/;"	kind:function	line:168
 main	8puzzle.py	/^def main():$/;"	kind:function	line:182
@@ -88,10 +126,15 @@ main	missionary_cannibal.py	/^def main():$/;"	kind:function	line:136
 main	p_astar(final).py	/^def main():$/;"	kind:function	line:42
 main	p_bfs(final).py	/^def main():$/;"	kind:function	line:32
 main	p_dfs(final).py	/^def main():$/;"	kind:function	line:34
+main	p_ucs(final).py	/^def main():$/;"	kind:function	line:37
+main	romanian_astar.py	/^def main():$/;"	kind:function	line:110
 main	romanian_path.py	/^def main():$/;"	kind:function	line:32
+main	test.py	/^def main():$/;"	kind:function	line:62
+main	vacuum_bfs.py	/^def main():$/;"	kind:function	line:57
 matrix	student_placement.py	/^    matrix = [-1] * 100$/;"	kind:variable	line:85
 missionary_cannibal.py	missionary_cannibal.py	1;"	kind:file	line:1
 move	bot_clean.py	/^move=' '$/;"	kind:variable	line:9
+move_cleaner	vacuum_bfs.py	/^def move_cleaner(node, direction):$/;"	kind:function	line:24
 move_down	15puzzle.py	/^def move_down( state ):$/;"	kind:function	line:25
 move_down	8puzzle.py	/^def move_down( state ):$/;"	kind:function	line:28
 move_left	15puzzle.py	/^def move_left( state ):$/;"	kind:function	line:34
@@ -100,6 +143,7 @@ move_next	gem.py	/^def move_next(grid, coordinate):$/;"	kind:function	line:6
 move_next	p_astar(final).py	/^def move_next(grid, coordinate):$/;"	kind:function	line:8
 move_next	p_bfs(final).py	/^def move_next(grid, coordinate):$/;"	kind:function	line:6
 move_next	p_dfs(final).py	/^def move_next(grid, coordinate):$/;"	kind:function	line:8
+move_next	p_ucs(final).py	/^def move_next(grid, coordinate):$/;"	kind:function	line:9
 move_right	15puzzle.py	/^def move_right( state ):$/;"	kind:function	line:43
 move_right	8puzzle.py	/^def move_right( state ):$/;"	kind:function	line:50
 move_up	15puzzle.py	/^def move_up( state ):$/;"	kind:function	line:16
@@ -114,15 +158,19 @@ num	student_placement.py	/^        num = list(map(int,input().strip().split()))$
 p_astar(final).py	p_astar(final).py	1;"	kind:file	line:1
 p_bfs(final).py	p_bfs(final).py	1;"	kind:file	line:1
 p_dfs(final).py	p_dfs(final).py	1;"	kind:file	line:1
+p_ucs(final).py	p_ucs(final).py	1;"	kind:file	line:1
 player	tic_tac_toe.py	/^player = raw_input()$/;"	kind:variable	line:108
 pos	bot_clean.py	/^    pos = [int(i) for i in input().strip().split()]$/;"	kind:variable	line:93
 printSolution	nqueen.py	/^def printSolution(board):$/;"	kind:function	line:7
-print_all	romanian_path_self.py	/^def print_all(graph,s,d):$/;"	kind:function	line:40
+print_all	romanian_path_self.py	/^def print_all(graph,s,d):$/;"	kind:function	line:38
 print_all_util	romanian_path_self.py	/^def print_all_util(graph,s,d,visited,path):$/;"	kind:function	line:26
 print_move	bot_clean.py	/^def print_move(delta_x, delta_y,x,y,board):$/;"	kind:function	line:51
 print_solution	missionary_cannibal.py	/^def print_solution(solution):$/;"	kind:function	line:122
 readfile	15puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:158
 readfile	8puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:171
+result	knights_tour.py	/^result = bfs(adj, vis, x, y, n, m)$/;"	kind:variable	line:95
+result	vcuum_bfs_self.py	/^result = bfs(adj, vis, x, y, n, m)$/;"	kind:variable	line:107
+romanian_astar.py	romanian_astar.py	1;"	kind:file	line:1
 romanian_path.py	romanian_path.py	1;"	kind:file	line:1
 romanian_path_self.py	romanian_path_self.py	1;"	kind:file	line:1
 solve	student_placement.py	/^def solve(graph, mat, visit ,m, n, index):$/;"	kind:function	line:42
@@ -132,6 +180,21 @@ student_placement.py	student_placement.py	1;"	kind:file	line:1
 successors	missionary_cannibal.py	/^def successors(cur_state):$/;"	kind:function	line:38
 t	student_placement.py	/^    t = t - 1$/;"	kind:variable	line:104
 t	student_placement.py	/^t= int(input())$/;"	kind:variable	line:71
+temp	knights_tour.py	/^    temp = []$/;"	kind:variable	line:84
+temp	vcuum_bfs_self.py	/^    temp = []$/;"	kind:variable	line:96
+test.py	test.py	1;"	kind:file	line:1
 tic_tac_toe.py	tic_tac_toe.py	1;"	kind:file	line:1
 total	student_placement.py	/^    total = m * n$/;"	kind:variable	line:75
+ucs	p_ucs(final).py	/^def ucs(grid, source, goal):$/;"	kind:function	line:22
+ucs	romanian_astar.py	/^def ucs(source, destination):$/;"	kind:function	line:35
+vaccum	knights_tour.py	/^class vaccum:$/;"	kind:class	line:3
+vaccum	vcuum_bfs_self.py	/^class vaccum:$/;"	kind:class	line:2
+vacuum_bfs.py	vacuum_bfs.py	1;"	kind:file	line:1
+vcuum_bfs_self.py	vcuum_bfs_self.py	1;"	kind:file	line:1
+vis	knights_tour.py	/^vis = []$/;"	kind:variable	line:81
+vis	vcuum_bfs_self.py	/^vis = []$/;"	kind:variable	line:93
 visit	student_placement.py	/^    visit =[0 for x in range(100)]$/;"	kind:variable	line:86
+x	knights_tour.py	/^x = int(input())$/;"	kind:variable	line:93
+x	vcuum_bfs_self.py	/^x = int(input())$/;"	kind:variable	line:105
+y	knights_tour.py	/^y = int(input())$/;"	kind:variable	line:94
+y	vcuum_bfs_self.py	/^y = int(input())$/;"	kind:variable	line:106
