@@ -4,124 +4,727 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+._AC3_final.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._AC3_final.py	1;"	kind:file	line:1
+._Crypt_arithmetic.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._Crypt_arithmetic.py	1;"	kind:file	line:1
+._Map_col_mrv_dh_lcv.py	Arpit/__MACOSX/my codes/._Map_col_mrv_dh_lcv.py	1;"	kind:file	line:1
+._Map_col_mrv_dh_lcv.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._Map_col_mrv_dh_lcv.py	1;"	kind:file	line:1
+._ac3_nqueen.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._ac3_nqueen.py	1;"	kind:file	line:1
+._map_col_ac3.py	Arpit/__MACOSX/my codes/._map_col_ac3.py	1;"	kind:file	line:1
+._map_col_ac3.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._map_col_ac3.py	1;"	kind:file	line:1
+._minimax_tic_tac_toe.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._minimax_tic_tac_toe.py	1;"	kind:file	line:1
+._nq_ac3.py	Arpit/__MACOSX/my codes/._nq_ac3.py	1;"	kind:file	line:1
+._nqeen_mrv.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._nqeen_mrv.py	1;"	kind:file	line:1
+._sudoku_csp.py	Arpit/__MACOSX/my codes/._sudoku_csp.py	1;"	kind:file	line:1
+._sudoku_csp.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._sudoku_csp.py	1;"	kind:file	line:1
+._tic.py	Arpit/__MACOSX/my codes/._tic.py	1;"	kind:file	line:1
+._tic_alphaBeta.py	Arpit/__MACOSX/my codes/._tic_alphaBeta.py	1;"	kind:file	line:1
+._tic_evaluationFunction.py	Arpit/__MACOSX/my codes/._tic_evaluationFunction.py	1;"	kind:file	line:1
+._tic_tac_toe_alpha_beta.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._tic_tac_toe_alpha_beta.py	1;"	kind:file	line:1
+._tictacpath.py	Arpit/__MACOSX/saboo codes/drive-download-20171114T080828Z-001/._tictacpath.py	1;"	kind:file	line:1
+1.py	bhatia/mapColouring/1.py	1;"	kind:file	line:1
 15puzzle.py	15puzzle.py	1;"	kind:file	line:1
+16puzzle.py	SectionA/AI/16puzzle.py	1;"	kind:file	line:1
+8_Puzzle_UCS.py	SectionA/AI/8_Puzzle_UCS.py	1;"	kind:file	line:1
+8puzdfd.py	SectionA/AI/8puzdfd.py	1;"	kind:file	line:1
 8puzzle.py	8puzzle.py	1;"	kind:file	line:1
+8puzzle.py	SectionA/AI/8puzzle.py	1;"	kind:file	line:1
+8puzzlebfs.py	SectionA/AI/8puzzlebfs.py	1;"	kind:file	line:1
+8puzzledfs.py	SectionA/AI/8puzzledfs.py	1;"	kind:file	line:1
+8puzzleucs.py	SectionA/AI/8puzzleucs.py	1;"	kind:file	line:1
+A*.py	SectionA/AI/A*.py	1;"	kind:file	line:1
+AC3	SectionA/AI/Saboo/AC3.py	/^def AC3(board,x,y,dom):$/;"	kind:function	line:2
+AC3	SectionA/AI/Saboo/IIT2015050_1.py	/^def AC3(board,dom):$/;"	kind:function	line:97
+AC3	SectionA/AI/Saboo/IIT2015050_2.py	/^def AC3(board,x,y,dom):$/;"	kind:function	line:2
+AC3	SectionA/AI/Saboo/sudoku_csp.py	/^def AC3(board,x,y,dom):$/;"	kind:function	line:2
+AC3.py	SectionA/AI/Saboo/AC3.py	1;"	kind:file	line:1
+AC3_final.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	1;"	kind:file	line:1
+AC3_final.py	SectionA/AI/Saboo/AC3_final.py	1;"	kind:file	line:1
+AC3_final.py	bhatia/all/AC3_final.py	1;"	kind:file	line:1
+ADJACENT	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^ADJACENT = [(dx, dy) for dy in range(-1, 2) for dx in range(-1, 2)]$/;"	kind:variable	line:4
+ANS	SectionA/AI/NQM.py	/^ANS = A_star (IN)$/;"	kind:variable	line:52
+A_star	SectionA/AI/NQM.py	/^def A_star (s) :$/;"	kind:function	line:23
+Crypt_arithmetic.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/Crypt_arithmetic.py	1;"	kind:file	line:1
+Crypt_arithmetic.py	SectionA/AI/Saboo/Crypt_arithmetic.py	1;"	kind:file	line:1
+Crypt_arithmetic.py	bhatia/all/Crypt_arithmetic.py	1;"	kind:file	line:1
+DFSUtil	graph_cycle.py	/^    def DFSUtil(self, u, color):$/;"	kind:member	line:14
+DIRECTIONS	Sayantan(lab4,5)/Lab 5/find_gem.py	/^DIRECTIONS = ['E', 'SE', 'S', 'SW', 'W', 'NW', 'N', 'NE']$/;"	kind:variable	line:4
+DIRECTIONS	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^DIRECTIONS = ['E', 'SE', 'S', 'SW', 'W', 'NW', 'N', 'NE']$/;"	kind:variable	line:5
+DIRECTIONS	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^DIRECTIONS = ['E', 'SE', 'S', 'SW', 'W', 'NW', 'N', 'NE']$/;"	kind:variable	line:1
+DIRECTIONS	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^DIRECTIONS = ['E', 'SE', 'S', 'SW', 'W', 'NW', 'N', 'NE']$/;"	kind:variable	line:4
+DIRECTIONS	gem.py	/^DIRECTIONS = ['E', 'SE', 'S', 'SW', 'W', 'NW', 'N', 'NE']$/;"	kind:variable	line:4
+DIRECTIONS	gem_circular.py	/^DIRECTIONS = ['E', 'SE', 'S', 'SW', 'W', 'NW', 'N', 'NE']$/;"	kind:variable	line:5
+DIRECTIONS	gem_iterative.py	/^DIRECTIONS = ['E', 'SE', 'S', 'SW', 'W', 'NW', 'N', 'NE']$/;"	kind:variable	line:1
 DIRECTIONS	p_ucs(final).py	/^DIRECTIONS = ['UP', 'LEFT', 'RIGHT', 'DOWN']$/;"	kind:variable	line:5
 DIRECTIONS	vacuum_bfs.py	/^DIRECTIONS = ['UP', 'DOWN', 'LEFT', 'RIGHT', 'SUCK']$/;"	kind:variable	line:4
+GRAPH	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^GRAPH = None$/;"	kind:variable	line:2
 GRAPH	romanian_astar.py	/^        }$/;"	kind:variable	line:24
 GRAPH	romanian_path.py	/^        }$/;"	kind:variable	line:22
 GRAPH	test.py	/^        }$/;"	kind:variable	line:31
+GRID	Sayantan(lab4,5)/Lab 5/find_gem.py	/^GRID = None$/;"	kind:variable	line:7
+GRID	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^GRID = None$/;"	kind:variable	line:8
+GRID	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^GRID = None$/;"	kind:variable	line:4
+GRID	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^GRID = None$/;"	kind:variable	line:7
+GRID	gem.py	/^GRID = None$/;"	kind:variable	line:7
+GRID	gem_circular.py	/^GRID = None$/;"	kind:variable	line:8
+GRID	gem_iterative.py	/^GRID = None$/;"	kind:variable	line:4
 GRID_SIZE	vacuum_bfs.py	/^GRID_SIZE = 0$/;"	kind:variable	line:3
+Game	connect_four.py	/^class Game:$/;"	kind:class	line:1
+Graph	djikstras.py	/^class Graph():$/;"	kind:class	line:8
+Graph	graph_cycle.py	/^class Graph():$/;"	kind:class	line:6
+Graph	graph_undirected.py	/^class Graph:$/;"	kind:class	line:7
+Graph	hamiltonian.py	/^class Graph():$/;"	kind:class	line:4
+Graph	kruskal.py	/^class Graph:$/;"	kind:class	line:8
+Graph	prims.py	/^class Graph():$/;"	kind:class	line:6
+IIT2015050_1.py	SectionA/AI/Saboo/IIT2015050_1.py	1;"	kind:file	line:1
+IIT2015050_2.py	SectionA/AI/Saboo/IIT2015050_2.py	1;"	kind:file	line:1
+IN	SectionA/AI/NQM.py	/^IN = State (initial_grid, 0)$/;"	kind:variable	line:51
+INFINITY	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^INFINITY = 10 ** 9$/;"	kind:variable	line:4
+INFINITY	gem_circular.py	/^INFINITY = 10 ** 9$/;"	kind:variable	line:4
+INTERPRET_INPUT	SectionA/AI/a1.py	/^def INTERPRET_INPUT(a, x, y):$/;"	kind:function	line:2
+INTERPRET_INPUT	SectionA/AI/vacuum.py	/^	def INTERPRET_INPUT(self, x, y):$/;"	kind:member	line:50
+KruskalMST	kruskal.py	/^    def KruskalMST(self):$/;"	kind:member	line:48
 Line	tic_tac_toe.py	/^class Line:$/;"	kind:class	line:3
-MOVES	gem.py	/^MOVES = [[-1, 0],[1,1],[-1,-1],[-1,1],[1,-1],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:3
+MOVES	Sayantan(lab4,5)/Lab 5/find_gem.py	/^MOVES = {'NE':[-1, 1], 'N':[-1, 0], 'NW':[-1, -1], 'W':[0, -1], 'E':[0, 1], 'SE':[1, 1], 'S':[1, 0], 'SW':[1, -1]}$/;"	kind:variable	line:5
+MOVES	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^MOVES = {'NE':[-1, 1], 'N':[-1, 0], 'NW':[-1, -1], 'W':[0, -1], 'E':[0, 1], 'SE':[1, 1], 'S':[1, 0], 'SW':[1, -1]}$/;"	kind:variable	line:6
+MOVES	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^MOVES = {'NE':[-1, 1], 'N':[-1, 0], 'NW':[-1, -1], 'W':[0, -1], 'E':[0, 1], 'SE':[1, 1], 'S':[1, 0], 'SW':[1, -1]}$/;"	kind:variable	line:2
+MOVES	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^MOVES = {'NE':[-1, 1, 7], 'N':[-1, 0, 6], 'NW':[-1, -1, 5], 'W':[0, -1, 4], 'E':[0, 1, 0], 'SE':[1, 1, 1], 'S':[1, 0, 2], 'SW':[1, -1, 3]}$/;"	kind:variable	line:5
+MOVES	gem.py	/^MOVES = {'NE':[-1, 1], 'N':[-1, 0], 'NW':[-1, -1], 'W':[0, -1], 'E':[0, 1], 'SE':[1, 1], 'S':[1, 0], 'SW':[1, -1]}$/;"	kind:variable	line:5
+MOVES	gem_circular.py	/^MOVES = {'NE':[-1, 1], 'N':[-1, 0], 'NW':[-1, -1], 'W':[0, -1], 'E':[0, 1], 'SE':[1, 1], 'S':[1, 0], 'SW':[1, -1]}$/;"	kind:variable	line:6
+MOVES	gem_iterative.py	/^MOVES = {'NE':[-1, 1], 'N':[-1, 0], 'NW':[-1, -1], 'W':[0, -1], 'E':[0, 1], 'SE':[1, 1], 'S':[1, 0], 'SW':[1, -1]}$/;"	kind:variable	line:2
 MOVES	p_astar(final).py	/^MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:4
 MOVES	p_bfs(final).py	/^MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:3
 MOVES	p_dfs(final).py	/^MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]$/;"	kind:variable	line:5
 MOVES	p_ucs(final).py	/^MOVES = {'UP':[-1, 0], 'LEFT':[0, -1], 'RIGHT':[0, 1], 'DOWN':[1, 0]}$/;"	kind:variable	line:6
 MOVES	vacuum_bfs.py	/^MOVES = {'UP':[-1, 0], 'DOWN':[1, 0], 'LEFT':[0, -1], 'RIGHT':[0, 1], 'SUCK':[0, 0]}$/;"	kind:variable	line:5
+Map_col_mrv_dh_lcv.py	Arpit/my codes/Map_col_mrv_dh_lcv.py	1;"	kind:file	line:1
+Map_col_mrv_dh_lcv.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/Map_col_mrv_dh_lcv.py	1;"	kind:file	line:1
+Map_col_mrv_dh_lcv.py	SectionA/AI/Saboo/Map_col_mrv_dh_lcv.py	1;"	kind:file	line:1
+Map_col_mrv_dh_lcv.py	bhatia/all/Map_col_mrv_dh_lcv.py	1;"	kind:file	line:1
+N	Sayantan(lab4,5)/Lab 5/sliding_board.py	/^N = 0$/;"	kind:variable	line:4
+N	knights_backtracking.py	/^N = 5 # This way you can test it with 5 or 6 and even 100 if you want to.$/;"	kind:variable	line:1
 N	nqueen.py	/^N = 4$/;"	kind:variable	line:5
+N	sliding_board.py	/^N = 0$/;"	kind:variable	line:4
+NEXT_CHILDREN	SectionA/AI/vacuum.py	/^	def NEXT_CHILDREN(self, x, y):$/;"	kind:member	line:54
+NQM.py	SectionA/AI/NQM.py	1;"	kind:file	line:1
+NQueens	SectionA/AI/N_Queen_UCS.py	/^def NQueens() :$/;"	kind:function	line:40
+N_Queen_UCS.py	SectionA/AI/N_Queen_UCS.py	1;"	kind:file	line:1
+Nim	nimgame.py	/^class Nim(object):$/;"	kind:class	line:1
 Node	15puzzle.py	/^class Node:$/;"	kind:class	line:145
 Node	8puzzle.py	/^class Node:$/;"	kind:class	line:163
+Node	Sayantan(lab4,5)/Lab 5/find_gem.py	/^class Node(object):$/;"	kind:class	line:11
+Node	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^class Node(object):$/;"	kind:class	line:12
+Node	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^class Node(object):$/;"	kind:class	line:7
+Node	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^class Node(object):$/;"	kind:class	line:11
+Node	SectionA/AI/16puzzle.py	/^class Node:$/;"	kind:class	line:139
+Node	SectionA/AI/8puzzle.py	/^class Node:$/;"	kind:class	line:137
 Node	bot_clean.py	/^class Node:$/;"	kind:class	line:1
+Node	gem.py	/^class Node(object):$/;"	kind:class	line:11
+Node	gem_circular.py	/^class Node(object):$/;"	kind:class	line:12
+Node	gem_iterative.py	/^class Node(object):$/;"	kind:class	line:7
 Node	tic_tac_toe.py	/^class Node:$/;"	kind:class	line:43
 Node	vacuum_bfs.py	/^class Node(object):$/;"	kind:class	line:7
+QueenSolver	SectionA/AI/n-queens_bfs.py	/^class QueenSolver:$/;"	kind:class	line:8
+RULE_MATCH	SectionA/AI/a1.py	/^def RULE_MATCH(x, y, vis, a, n, m):$/;"	kind:function	line:12
+RULE_MATCH	SectionA/AI/vacuum.py	/^	def RULE_MATCH(self, x, y):$/;"	kind:member	line:76
 Rpath	test.py	/^class Rpath:$/;"	kind:class	line:2
+SEAT_MATRIX	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^SEAT_MATRIX = None$/;"	kind:variable	line:6
+SIMPLE_REFLEX_AGENT	SectionA/AI/a1.py	/^def SIMPLE_REFLEX_AGENT(a, x, y):$/;"	kind:function	line:8
+SIMPLE_REFLEX_AGENT	SectionA/AI/vacuum.py	/^	def SIMPLE_REFLEX_AGENT(self, x, y):$/;"	kind:member	line:71
+STACK	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^STACK = None$/;"	kind:variable	line:5
+STACK	gem_iterative.py	/^STACK = None$/;"	kind:variable	line:5
+STUDENTS	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^STUDENTS = None$/;"	kind:variable	line:3
+Stack	SectionA/AI/8puzdfd.py	/^class Stack:$/;"	kind:class	line:2
+Stack	SectionA/AI/miscandfs.py	/^class Stack:$/;"	kind:class	line:1
+State	SectionA/AI/8_Puzzle_UCS.py	/^class State :$/;"	kind:class	line:4
+State	SectionA/AI/NQM.py	/^class State:$/;"	kind:class	line:6
+State	SectionA/AI/cannibalsmissionaries.py	/^class State():$/;"	kind:class	line:6
 State	missionary_cannibal.py	/^class State():$/;"	kind:class	line:6
+Student	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^class Student(object):$/;"	kind:class	line:8
+TIME	Sayantan(lab4,5)/Lab 5/find_gem.py	/^TIME = 0$/;"	kind:variable	line:8
+TIME	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^TIME = 0$/;"	kind:variable	line:9
+TIME	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^TIME = 0$/;"	kind:variable	line:8
+TIME	gem.py	/^TIME = 0$/;"	kind:variable	line:8
+TIME	gem_circular.py	/^TIME = 0$/;"	kind:variable	line:9
+Vacuum	SectionA/AI/vacuum.py	/^class Vacuum:$/;"	kind:class	line:3
+__eq__	Sayantan(lab4,5)/Lab 5/find_gem.py	/^    def __eq__(self, other):$/;"	kind:member	line:18
+__eq__	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^    def __eq__(self, other):$/;"	kind:member	line:19
+__eq__	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^    def __eq__(self, other):$/;"	kind:member	line:22
+__eq__	SectionA/AI/cannibalsmissionaries.py	/^	def __eq__(self, other):$/;"	kind:member	line:30
+__eq__	gem.py	/^    def __eq__(self, other):$/;"	kind:member	line:18
+__eq__	gem_circular.py	/^    def __eq__(self, other):$/;"	kind:member	line:19
 __eq__	missionary_cannibal.py	/^	def __eq__(self, other):$/;"	kind:member	line:30
+__hash__	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^    def __hash__(self):$/;"	kind:member	line:19
+__hash__	SectionA/AI/cannibalsmissionaries.py	/^	def __hash__(self):$/;"	kind:member	line:35
 __hash__	missionary_cannibal.py	/^	def __hash__(self):$/;"	kind:member	line:35
 __init__	15puzzle.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:146
 __init__	8puzzle.py	/^	def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:164
+__init__	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^    def __init__(self, roll_no, friends):$/;"	kind:member	line:10
+__init__	Sayantan(lab4,5)/Lab 5/find_gem.py	/^    def __init__(self, cost, time, coordinate, path):$/;"	kind:member	line:12
+__init__	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^    def __init__(self, cost, coordinate, path, parent):$/;"	kind:member	line:13
+__init__	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^    def __init__(self, cost, coordinate):$/;"	kind:member	line:8
+__init__	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^    def __init__(self, cost, time, coordinate, parent, face):$/;"	kind:member	line:12
+__init__	SectionA/AI/16puzzle.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:140
+__init__	SectionA/AI/8_Puzzle_UCS.py	/^	def __init__ ( self , new_grid ) :$/;"	kind:member	line:5
+__init__	SectionA/AI/8puzdfd.py	/^    def __init__(self):$/;"	kind:member	line:3
+__init__	SectionA/AI/8puzzle.py	/^    def __init__( self, state, parent, operator, depth, cost ):$/;"	kind:member	line:138
+__init__	SectionA/AI/NQM.py	/^	def __init__ (self, grid, val) :$/;"	kind:member	line:7
+__init__	SectionA/AI/cannibalsmissionaries.py	/^	def __init__(self, cannibalLeft, missionaryLeft, boat, cannibalRight, missionaryRight):$/;"	kind:member	line:7
+__init__	SectionA/AI/miscandfs.py	/^    def __init__(self):$/;"	kind:member	line:2
+__init__	SectionA/AI/vacuum.py	/^	def __init__(self, n, m):$/;"	kind:member	line:5
 __init__	bot_clean.py	/^    def __init__(self, x=0, y=0):$/;"	kind:member	line:2
+__init__	connect_four.py	/^    def __init__(self,row,column,l):$/;"	kind:member	line:2
+__init__	djikstras.py	/^    def __init__(self, vertices):$/;"	kind:member	line:10
+__init__	gem.py	/^    def __init__(self, cost, time, coordinate, path):$/;"	kind:member	line:12
+__init__	gem_circular.py	/^    def __init__(self, cost, coordinate, path, parent):$/;"	kind:member	line:13
+__init__	gem_iterative.py	/^    def __init__(self, cost, coordinate):$/;"	kind:member	line:8
+__init__	graph_cycle.py	/^    def __init__(self, V):$/;"	kind:member	line:7
+__init__	graph_undirected.py	/^	def __init__(self,vertices):$/;"	kind:member	line:9
+__init__	hamiltonian.py	/^    def __init__(self, vertices):$/;"	kind:member	line:5
 __init__	knights_tour.py	/^    def __init__(self, parent, x, y):$/;"	kind:member	line:4
+__init__	kruskal.py	/^    def __init__(self,vertices):$/;"	kind:member	line:10
 __init__	missionary_cannibal.py	/^	def __init__(self, cannibalLeft, missionaryLeft, boat, cannibalRight, missionaryRight):$/;"	kind:member	line:7
+__init__	nimgame.py	/^    def __init__(self):$/;"	kind:member	line:2
+__init__	prims.py	/^    def __init__(self, vertices):$/;"	kind:member	line:8
 __init__	test.py	/^    def __init__(self, parent, place):$/;"	kind:member	line:3
 __init__	tic_tac_toe.py	/^    def __init__(self, neighbor_a, neighbor_b):$/;"	kind:member	line:4
 __init__	tic_tac_toe.py	/^    def __init__(self, x=0, y=0, is_enemy=None):$/;"	kind:member	line:44
 __init__	vacuum_bfs.py	/^    def __init__(self, grid, cleaner, move, parent):$/;"	kind:member	line:8
-__init__	vcuum_bfs_self.py	/^    def __init__(self, parent, x, y,n,m):$/;"	kind:member	line:3
+__init__	vcuum_bfs_self.py	/^    def __init__(self, parent, x, y,n,m,move):$/;"	kind:member	line:3
+__inti__	Arpit/my codes/tic.py	/^    def __inti__(self):$/;"	kind:member	line:2
+__inti__	Arpit/my codes/tic_alphaBeta.py	/^    def __inti__(self):$/;"	kind:member	line:2
+__inti__	Arpit/my codes/tic_evaluationFunction.py	/^    def __inti__(self):$/;"	kind:member	line:2
+__lt__	Sayantan(lab4,5)/Lab 5/find_gem.py	/^    def __lt__(self, other):$/;"	kind:member	line:21
+__lt__	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^    def __lt__(self, other):$/;"	kind:member	line:22
+__lt__	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^    def __lt__(self, other):$/;"	kind:member	line:25
+__lt__	gem.py	/^    def __lt__(self, other):$/;"	kind:member	line:21
+__lt__	gem_circular.py	/^    def __lt__(self, other):$/;"	kind:member	line:22
 __str__	tic_tac_toe.py	/^    def __str__(self):$/;"	kind:member	line:50
+a	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^    a=nextMove(player, board)$/;"	kind:variable	line:127
+a	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^	a = (int)a $/;"	kind:variable	line:74
+a	SectionA/AI/Saboo/tictacpath.py	/^    a=nextMove(player, board)$/;"	kind:variable	line:127
+a	SectionA/AI/a1.py	/^a = [];$/;"	kind:variable	line:45
+a	SectionA/AI/mapColouring/mapcoloring.py	/^	a = (int)a $/;"	kind:variable	line:74
+a	SectionA/AI/stack.py	/^a=[];$/;"	kind:variable	line:1
+a	bhatia/mapColouring/1.py	/^	a = (int)(input())$/;"	kind:variable	line:73
+a1.py	SectionA/AI/a1.py	1;"	kind:file	line:1
 a_star	15puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:107
 a_star	8puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:134
+a_star	SectionA/AI/16puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:110
+a_star	SectionA/AI/8puzzle.py	/^def a_star( start, goal ):$/;"	kind:function	line:108
 a_star	p_astar(final).py	/^def a_star(grid, source, goal):$/;"	kind:function	line:27
 a_star	romanian_astar.py	/^def a_star(source, destination):$/;"	kind:function	line:51
-adj	knights_tour.py	/^adj = []$/;"	kind:variable	line:80
-adj	vcuum_bfs_self.py	/^adj = []$/;"	kind:variable	line:92
+ac3	Arpit/my codes/map_col_ac3.py	/^def ac3(dom,n,u,col):$/;"	kind:function	line:3
+ac3	Arpit/my codes/nq_ac3.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:29
+ac3	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:23
+ac3	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:23
+ac3	Arpit/saboo codes/drive-download-20171114T080828Z-001/map_col_ac3.py	/^def ac3(dom,n,u,col):$/;"	kind:function	line:3
+ac3	SectionA/AI/Saboo/AC3_final.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:23
+ac3	SectionA/AI/Saboo/IIT2015050_1.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:71
+ac3	SectionA/AI/Saboo/ac3_nqueen.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:23
+ac3	SectionA/AI/Saboo/map_col_ac3.py	/^def ac3(dom,n,u,col):$/;"	kind:function	line:3
+ac3	SectionA/AI/nq_ac3.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:29
+ac3	bhatia/all/AC3_final.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:23
+ac3	bhatia/all/ac3_nqueen.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:23
+ac3	bhatia/all/map_col_ac3.py	/^def ac3(dom,n,u,col):$/;"	kind:function	line:3
+ac3	bhatia/all/nq_ac3B.py	/^def ac3(board,dom,n,col):$/;"	kind:function	line:29
+ac3_nqueen.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	1;"	kind:file	line:1
+ac3_nqueen.py	SectionA/AI/Saboo/ac3_nqueen.py	1;"	kind:file	line:1
+ac3_nqueen.py	bhatia/all/ac3_nqueen.py	1;"	kind:file	line:1
+addEdge	graph_cycle.py	/^    def addEdge(self, u, v):$/;"	kind:member	line:11
+addEdge	graph_undirected.py	/^	def addEdge(self,u,v):$/;"	kind:member	line:15
+addEdge	kruskal.py	/^    def addEdge(self,u,v,w):$/;"	kind:member	line:17
+adj	Arpit/my codes/Map_col_mrv_dh_lcv.py	/^adj=[[]for i in range(n)]$/;"	kind:variable	line:59
+adj	Arpit/my codes/map_col_ac3.py	/^adj=[[]for i in range(n)]$/;"	kind:variable	line:39
+adj	Arpit/saboo codes/drive-download-20171114T080828Z-001/Map_col_mrv_dh_lcv.py	/^adj=[[]for i in range(n)]$/;"	kind:variable	line:59
+adj	Arpit/saboo codes/drive-download-20171114T080828Z-001/map_col_ac3.py	/^adj=[[]for i in range(n)]$/;"	kind:variable	line:39
+adj	SectionA/AI/A*.py	/^adj = []$/;"	kind:variable	line:4
+adj	SectionA/AI/Saboo/Map_col_mrv_dh_lcv.py	/^adj=[[]for i in range(n)]$/;"	kind:variable	line:59
+adj	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^adj = []$/;"	kind:variable	line:69
+adj	SectionA/AI/Saboo/map_col_ac3.py	/^adj=[[]for i in range(n)]$/;"	kind:variable	line:39
+adj	SectionA/AI/mapColouring/mapcoloring.py	/^adj = []$/;"	kind:variable	line:69
+adj	bhatia/all/Map_col_mrv_dh_lcv.py	/^adj=[[]for i in range(n)]$/;"	kind:variable	line:59
+adj	bhatia/all/map_col_ac3.py	/^adj=[[]for i in range(n)]$/;"	kind:variable	line:39
+adj	bhatia/mapColouring/1.py	/^adj = []$/;"	kind:variable	line:69
+adj	knights_tour.py	/^adj = []$/;"	kind:variable	line:81
+adj	vcuum_bfs_self.py	/^adj = []$/;"	kind:variable	line:119
+alpha_beta	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	/^def alpha_beta(board,player,ismax,maxp):$/;"	kind:function	line:43
+alpha_beta	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	/^def alpha_beta(board,player,alpha,beta,ismax,maxp):$/;"	kind:function	line:43
+alpha_beta	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^def alpha_beta(board,player,alpha,beta,ismax,maxp):$/;"	kind:function	line:43
+alpha_beta	SectionA/AI/Saboo/minimax_tic_tac_toe.py	/^def alpha_beta(board,player,ismax,maxp):$/;"	kind:function	line:43
+alpha_beta	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	/^def alpha_beta(board,player,alpha,beta,ismax,maxp):$/;"	kind:function	line:43
+alpha_beta	SectionA/AI/Saboo/tictacpath.py	/^def alpha_beta(board,player,alpha,beta,ismax,maxp):$/;"	kind:function	line:43
+alpha_beta	bhatia/all/minimax_tic_tac_toe.py	/^def alpha_beta(board,player,ismax,maxp):$/;"	kind:function	line:43
+alpha_beta	bhatia/all/tic_tac_toe_alpha_beta.py	/^def alpha_beta(board,player,alpha,beta,ismax,maxp):$/;"	kind:function	line:43
+alphabet	SectionA/AI/n-queens_bfs.py	/^    alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']$/;"	kind:variable	line:10
+ans	Arpit/my codes/nq_ac3.py	/^ans=[]$/;"	kind:variable	line:83
+ans	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	/^ans=[]$/;"	kind:variable	line:85
+ans	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^ans=[]$/;"	kind:variable	line:71
+ans	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	/^ans=[-1 for i in range(n)]$/;"	kind:variable	line:49
+ans	SectionA/AI/A*.py	/^ans = calcDistance(initial, goal)$/;"	kind:variable	line:117
+ans	SectionA/AI/Saboo/AC3_final.py	/^ans=[]$/;"	kind:variable	line:85
+ans	SectionA/AI/Saboo/ac3_nqueen.py	/^ans=[]$/;"	kind:variable	line:71
+ans	SectionA/AI/Saboo/nqeen_mrv.py	/^ans=[-1 for i in range(n)]$/;"	kind:variable	line:49
+ans	SectionA/AI/nq_ac3.py	/^ans=[]$/;"	kind:variable	line:83
+ans	bhatia/all/AC3_final.py	/^ans=[]$/;"	kind:variable	line:85
+ans	bhatia/all/ac3_nqueen.py	/^ans=[]$/;"	kind:variable	line:71
+ans	bhatia/all/nq_ac3B.py	/^ans=[]$/;"	kind:variable	line:83
+ans	bhatia/all/nqeen_mrv.py	/^ans=[-1 for i in range(n)]$/;"	kind:variable	line:49
 ans	student_placement.py	/^        ans = solve(graph,matrix,visit,m,n,0)$/;"	kind:variable	line:95
+answer	SectionA/AI/8_Puzzle_UCS.py	/^answer = answered[2] ;$/;"	kind:variable	line:118
+answered	SectionA/AI/8_Puzzle_UCS.py	/^answered = bfs ( initial_state ) ;$/;"	kind:variable	line:116
+answers	SectionA/AI/N_Queen_UCS.py	/^answers = PriorityQueue() ;$/;"	kind:variable	line:73
+arc_consistency	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def arc_consistency():$/;"	kind:function	line:72
+arc_reduce	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def arc_reduce(x, y):$/;"	kind:function	line:60
+args	te.py	/^args = parser.parse_args()$/;"	kind:variable	line:22
+arr	SectionA/AI/8puzdfd.py	/^arr=[[] for i in range(3)]$/;"	kind:variable	line:71
+arr	SectionA/AI/nqueen_dfs.py	/^arr = []$/;"	kind:variable	line:5
+assign_parent	SectionA/AI/8_Puzzle_UCS.py	/^	def assign_parent ( self , parent_state ) :$/;"	kind:member	line:14
+b	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^	b = (int)b$/;"	kind:variable	line:75
+b	SectionA/AI/mapColouring/mapcoloring.py	/^	b = (int)b$/;"	kind:variable	line:75
+b	bhatia/mapColouring/1.py	/^	b = (int)(input())$/;"	kind:variable	line:74
+backgammon.py	SectionA/AI/Saboo/backgammon.py	1;"	kind:file	line:1
+backgammon.py	SectionA/AI/backgammon.py	1;"	kind:file	line:1
+backtrack	Arpit/my codes/map_col_ac3.py	/^def backtrack(u,dom,n,adj,col):$/;"	kind:function	line:25
+backtrack	Arpit/my codes/nq_ac3.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:57
+backtrack	Arpit/my codes/sudoku_csp.py	/^def backtrack(board,dom):$/;"	kind:function	line:63
+backtrack	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:62
+backtrack	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:50
+backtrack	Arpit/saboo codes/drive-download-20171114T080828Z-001/map_col_ac3.py	/^def backtrack(u,dom,n,adj,col):$/;"	kind:function	line:25
+backtrack	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	/^def backtrack(n,dom,board,ans):$/;"	kind:function	line:24
+backtrack	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	/^def backtrack(board,dom):$/;"	kind:function	line:63
+backtrack	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def backtrack(seat):$/;"	kind:function	line:96
+backtrack	SectionA/AI/Saboo/AC3.py	/^def backtrack(board,dom):$/;"	kind:function	line:63
+backtrack	SectionA/AI/Saboo/AC3_final.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:62
+backtrack	SectionA/AI/Saboo/IIT2015050_1.py	/^def backtrack(board, dom):$/;"	kind:function	line:127
+backtrack	SectionA/AI/Saboo/IIT2015050_2.py	/^def backtrack(board,dom):$/;"	kind:function	line:63
+backtrack	SectionA/AI/Saboo/ac3_nqueen.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:50
+backtrack	SectionA/AI/Saboo/map_col_ac3.py	/^def backtrack(u,dom,n,adj,col):$/;"	kind:function	line:25
+backtrack	SectionA/AI/Saboo/nqeen_mrv.py	/^def backtrack(n,dom,board,ans):$/;"	kind:function	line:24
+backtrack	SectionA/AI/Saboo/sudoku_csp.py	/^def backtrack(board,dom):$/;"	kind:function	line:63
+backtrack	SectionA/AI/nq_ac3.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:57
+backtrack	bhatia/all/AC3_final.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:62
+backtrack	bhatia/all/ac3_nqueen.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:50
+backtrack	bhatia/all/map_col_ac3.py	/^def backtrack(u,dom,n,adj,col):$/;"	kind:function	line:25
+backtrack	bhatia/all/nq_ac3B.py	/^def backtrack(n,board,col,ans,dom):$/;"	kind:function	line:57
+backtrack	bhatia/all/nqeen_mrv.py	/^def backtrack(n,dom,board,ans):$/;"	kind:function	line:24
+backtrack	bhatia/all/sudoku_csp.py	/^def backtrack(board,dom):$/;"	kind:function	line:63
+backtrack_csp	Arpit/my codes/Map_col_mrv_dh_lcv.py	/^def backtrack_csp(n,adj,col,dom):$/;"	kind:function	line:33
+backtrack_csp	Arpit/saboo codes/drive-download-20171114T080828Z-001/Map_col_mrv_dh_lcv.py	/^def backtrack_csp(n,adj,col,dom):$/;"	kind:function	line:33
+backtrack_csp	SectionA/AI/Saboo/Map_col_mrv_dh_lcv.py	/^def backtrack_csp(n,adj,col,dom):$/;"	kind:function	line:33
+backtrack_csp	bhatia/all/Map_col_mrv_dh_lcv.py	/^def backtrack_csp(n,adj,col,dom):$/;"	kind:function	line:33
+bar	SectionA/AI/Saboo/backgammon.py	/^bar = []$/;"	kind:variable	line:4
+bar	SectionA/AI/backgammon.py	/^bar = []$/;"	kind:variable	line:4
 bfs	15puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:64
 bfs	8puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:73
-bfs	gem.py	/^def bfs(grid, source, goal):$/;"	kind:function	line:16
-bfs	knights_tour.py	/^def bfs(adj, vis, x, y, n, m):$/;"	kind:function	line:46
+bfs	SectionA/AI/16puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:65
+bfs	SectionA/AI/8_Puzzle_UCS.py	/^def bfs ( src ) :$/;"	kind:function	line:47
+bfs	SectionA/AI/8puzzle.py	/^def bfs( start, goal ):$/;"	kind:function	line:63
+bfs	knights_tour.py	/^def bfs(adj, vis, x, y, n, m):$/;"	kind:function	line:47
 bfs	p_bfs(final).py	/^def bfs(grid, source, goal):$/;"	kind:function	line:17
 bfs	romanian_astar.py	/^def bfs(source,destination):$/;"	kind:function	line:91
 bfs	vacuum_bfs.py	/^def bfs(cleaner, grid):$/;"	kind:function	line:38
-bfs	vcuum_bfs_self.py	/^def bfs(adj, vis, x, y, n, m):$/;"	kind:function	line:42
+bfs	vcuum_bfs_self.py	/^def bfs(adj, vis, x, y, n, m):$/;"	kind:function	line:58
+blankTable	SectionA/AI/n-queens_bfs.py	/^    def blankTable(self):$/;"	kind:member	line:27
+board	Arpit/my codes/nq_ac3.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:79
+board	Arpit/my codes/sudoku_csp.py	/^board=[[0 for j in range(9)]for i in range(9)]$/;"	kind:variable	line:77
+board	Arpit/my codes/tic.py	/^board = [[] for i in range(3)]$/;"	kind:variable	line:141
+board	Arpit/my codes/tic_alphaBeta.py	/^board = [[] for i in range(3)]$/;"	kind:variable	line:119
+board	Arpit/my codes/tic_evaluationFunction.py	/^board = [[] for i in range(3)]$/;"	kind:variable	line:155
+board	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:82
+board	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:68
+board	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	/^board = [['_' for i in range(3)] for i in range(3)]$/;"	kind:variable	line:98
+board	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:47
+board	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	/^board=[[0 for j in range(9)]for i in range(9)]$/;"	kind:variable	line:77
+board	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	/^board = [['_' for i in range(3)] for i in range(3)]$/;"	kind:variable	line:107
+board	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^board = [['_' for i in range(3)] for i in range(3)]$/;"	kind:variable	line:108
+board	SectionA/AI/Saboo/AC3.py	/^board=[[0 for j in range(9)]for i in range(9)]$/;"	kind:variable	line:79
+board	SectionA/AI/Saboo/AC3_final.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:82
+board	SectionA/AI/Saboo/IIT2015050_1.py	/^board=[[0 for j in range(9)]for i in range(9)]$/;"	kind:variable	line:139
+board	SectionA/AI/Saboo/IIT2015050_2.py	/^board=[[0 for j in range(9)]for i in range(9)]$/;"	kind:variable	line:77
+board	SectionA/AI/Saboo/ac3_nqueen.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:68
+board	SectionA/AI/Saboo/backgammon.py	/^board = []$/;"	kind:variable	line:3
+board	SectionA/AI/Saboo/minimax_tic_tac_toe.py	/^board = [['_' for i in range(3)] for i in range(3)]$/;"	kind:variable	line:98
+board	SectionA/AI/Saboo/nqeen_mrv.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:47
+board	SectionA/AI/Saboo/sudoku_csp.py	/^board=[[0 for j in range(9)]for i in range(9)]$/;"	kind:variable	line:77
+board	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	/^board = [['_' for i in range(3)] for i in range(3)]$/;"	kind:variable	line:107
+board	SectionA/AI/Saboo/tictacpath.py	/^board = [['_' for i in range(3)] for i in range(3)]$/;"	kind:variable	line:108
+board	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^board = []$/;"	kind:variable	line:105
+board	SectionA/AI/Saboo/tictactoeminmax.py	/^board = []$/;"	kind:variable	line:99
+board	SectionA/AI/backgammon.py	/^board = []$/;"	kind:variable	line:3
+board	SectionA/AI/nq_ac3.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:79
+board	bhatia/all/AC3_final.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:82
+board	bhatia/all/ac3_nqueen.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:68
+board	bhatia/all/minimax_tic_tac_toe.py	/^board = [['_' for i in range(3)] for i in range(3)]$/;"	kind:variable	line:98
+board	bhatia/all/nq_ac3B.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:79
+board	bhatia/all/nqeen_mrv.py	/^board=[[0 for j in range(n)]for i in range(n)]$/;"	kind:variable	line:47
+board	bhatia/all/sudoku_csp.py	/^board=[[0 for j in range(9)]for i in range(9)]$/;"	kind:variable	line:77
+board	bhatia/all/tic_tac_toe_alpha_beta.py	/^board = [['_' for i in range(3)] for i in range(3)]$/;"	kind:variable	line:107
 board	bot_clean.py	/^    board = [[j for j in input().strip()] for i in range(5)]$/;"	kind:variable	line:94
 board	bot_clean.py	/^board=[]$/;"	kind:variable	line:10
 board	tic_tac_toe.py	/^board = []$/;"	kind:variable	line:111
+board2	SectionA/AI/Saboo/IIT2015050_1.py	/^board2=[[0 for j in range(9)]for i in range(9)]$/;"	kind:variable	line:140
 bot_clean.py	bot_clean.py	1;"	kind:file	line:1
 bot_princess.py	bot_princess.py	1;"	kind:file	line:1
+breadth_first_search	SectionA/AI/cannibalsmissionaries.py	/^def breadth_first_search():$/;"	kind:function	line:104
 breadth_first_search	missionary_cannibal.py	/^def breadth_first_search():$/;"	kind:function	line:104
 build_neighbor_node	tic_tac_toe.py	/^def build_neighbor_node(x, y, board, player):$/;"	kind:function	line:100
+c	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^c = (int)(input())$/;"	kind:variable	line:81
+c	SectionA/AI/mapColouring/mapcoloring.py	/^c = (int)(input())$/;"	kind:variable	line:81
+c	SectionA/AI/vaccumucs.py	/^c = 0$/;"	kind:variable	line:83
+c	bhatia/mapColouring/1.py	/^c = (int)(input())$/;"	kind:variable	line:79
+ca	SectionA/AI/8puzdfd.py	/^ca=[]$/;"	kind:variable	line:72
+cal_heur	SectionA/AI/NQM.py	/^	def cal_heur (self) :$/;"	kind:member	line:12
+calcDistance	SectionA/AI/A*.py	/^def calcDistance(initial, goal):$/;"	kind:function	line:77
 calc_weight	tic_tac_toe.py	/^    def calc_weight(self):$/;"	kind:member	line:8
+canPlace	SectionA/AI/n-queens_bfs.py	/^    def canPlace(self, table, row, col):$/;"	kind:member	line:86
+canRun	SectionA/AI/n-queens_bfs.py	/^    canRun = False$/;"	kind:variable	line:14
+can_bear_off	SectionA/AI/Saboo/backgammon.py	/^def can_bear_off():$/;"	kind:function	line:9
+can_bear_off	SectionA/AI/backgammon.py	/^def can_bear_off():$/;"	kind:function	line:9
+cannibalsmissionaries.py	SectionA/AI/cannibalsmissionaries.py	1;"	kind:file	line:1
+cd	Arpit/saboo codes/drive-download-20171114T080828Z-001/Crypt_arithmetic.py	/^cd=[0 for i in range(10)]$/;"	kind:variable	line:52
+cd	SectionA/AI/Saboo/Crypt_arithmetic.py	/^cd=[0 for i in range(10)]$/;"	kind:variable	line:52
+cd	bhatia/all/Crypt_arithmetic.py	/^cd=[0 for i in range(10)]$/;"	kind:variable	line:52
+check	Arpit/my codes/nq_ac3.py	/^def check(board,i,j,dom,x,n):$/;"	kind:function	line:13
+check	Arpit/my codes/sudoku_csp.py	/^def check(board,x,y,dom):$/;"	kind:function	line:39
+check	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^def check(board,i,j,dom,x,n):$/;"	kind:function	line:13
+check	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	/^def check(board,x,y,dom):$/;"	kind:function	line:39
+check	SectionA/AI/Saboo/AC3.py	/^def check(board,x,y,dom):$/;"	kind:function	line:39
+check	SectionA/AI/Saboo/IIT2015050_1.py	/^def check(board,x,y):$/;"	kind:function	line:47
+check	SectionA/AI/Saboo/IIT2015050_2.py	/^def check(board,x,y,dom):$/;"	kind:function	line:39
+check	SectionA/AI/Saboo/ac3_nqueen.py	/^def check(board,i,j,dom,x,n):$/;"	kind:function	line:13
+check	SectionA/AI/Saboo/sudoku_csp.py	/^def check(board,x,y,dom):$/;"	kind:function	line:39
+check	SectionA/AI/nq_ac3.py	/^def check(board,i,j,dom,x,n):$/;"	kind:function	line:13
+check	bhatia/all/ac3_nqueen.py	/^def check(board,i,j,dom,x,n):$/;"	kind:function	line:13
+check	bhatia/all/nq_ac3B.py	/^def check(board,i,j,dom,x,n):$/;"	kind:function	line:13
+check	bhatia/all/sudoku_csp.py	/^def check(board,x,y,dom):$/;"	kind:function	line:39
 check	student_placement.py	/^def check(graph, mat, visit, m , n ,index):$/;"	kind:function	line:20
+check	vcuum_bfs_self.py	/^def check(node,move):$/;"	kind:function	line:22
+check_location_is_safe	sudoku.py	/^def check_location_is_safe(arr,row,col,num):$/;"	kind:function	line:56
+check_valid	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def check_valid(student, seat):$/;"	kind:function	line:28
+checkc	knight.py	/^def checkc(grid,n):$/;"	kind:function	line:6
+choices	SectionA/AI/tictactoeGH.py	/^choices = []$/;"	kind:variable	line:3
 clear	student_placement.py	/^def clear(matrix):$/;"	kind:function	line:11
+clearAll	SectionA/AI/vacuum.py	/^	def clearAll(self, x, y):$/;"	kind:member	line:110
 cmp	15puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:131
 cmp	8puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:153
+cmp	SectionA/AI/16puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:129
+cmp	SectionA/AI/8puzzle.py	/^def cmp( x, y ):$/;"	kind:function	line:127
+cnt	Arpit/saboo codes/drive-download-20171114T080828Z-001/Crypt_arithmetic.py	/^cnt={}$/;"	kind:variable	line:33
+cnt	SectionA/AI/Saboo/Crypt_arithmetic.py	/^cnt={}$/;"	kind:variable	line:33
+cnt	bhatia/all/Crypt_arithmetic.py	/^cnt={}$/;"	kind:variable	line:33
+col	Arpit/my codes/Map_col_mrv_dh_lcv.py	/^col=[-1 for i in range(n)]$/;"	kind:variable	line:60
+col	Arpit/my codes/map_col_ac3.py	/^col=[-1 for i in range(n)]$/;"	kind:variable	line:40
+col	Arpit/saboo codes/drive-download-20171114T080828Z-001/Map_col_mrv_dh_lcv.py	/^col=[-1 for i in range(n)]$/;"	kind:variable	line:60
+col	Arpit/saboo codes/drive-download-20171114T080828Z-001/map_col_ac3.py	/^col=[-1 for i in range(n)]$/;"	kind:variable	line:40
+col	SectionA/AI/Saboo/Map_col_mrv_dh_lcv.py	/^col=[-1 for i in range(n)]$/;"	kind:variable	line:60
+col	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^col = []$/;"	kind:variable	line:82
+col	SectionA/AI/Saboo/map_col_ac3.py	/^col=[-1 for i in range(n)]$/;"	kind:variable	line:40
+col	SectionA/AI/mapColouring/mapcoloring.py	/^col = []$/;"	kind:variable	line:82
+col	SectionA/AI/nqueen_dfs.py	/^col = []$/;"	kind:variable	line:2
+col	bhatia/all/Map_col_mrv_dh_lcv.py	/^col=[-1 for i in range(n)]$/;"	kind:variable	line:60
+col	bhatia/all/map_col_ac3.py	/^col=[-1 for i in range(n)]$/;"	kind:variable	line:40
+col	bhatia/mapColouring/1.py	/^col = []$/;"	kind:variable	line:80
+column_rotate	Sayantan(lab4,5)/Lab 5/sliding_board.py	/^def column_rotate(state, column):$/;"	kind:function	line:10
+column_rotate	sliding_board.py	/^def column_rotate(state, column):$/;"	kind:function	line:9
+connect_four.py	connect_four.py	1;"	kind:file	line:1
+cost	SectionA/AI/N_Queen_UCS.py	/^cost = [ [ 0 for i in range(0,n) ] for i in range(0,n) ] ;$/;"	kind:variable	line:67
 create_node	15puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:52
 create_node	8puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:61
-create_node	knights_tour.py	/^def create_node (parent, x, y):$/;"	kind:function	line:9
+create_node	SectionA/AI/16puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:53
+create_node	SectionA/AI/8puzzle.py	/^def create_node( state, parent, operator, depth, cost ):$/;"	kind:function	line:51
+create_node	knights_tour.py	/^def create_node (parent, x, y):$/;"	kind:function	line:10
 create_node	test.py	/^def create_node( parent, node):$/;"	kind:function	line:7
-create_node	vcuum_bfs_self.py	/^def create_node (parent, x, y,n,m):$/;"	kind:function	line:12
+create_node	vcuum_bfs_self.py	/^def create_node (parent, x, y,n,m,move):$/;"	kind:function	line:12
+cstatus	SectionA/AI/vaccumucs.py	/^cstatus = []$/;"	kind:variable	line:68
+current	SectionA/AI/8_Puzzle_UCS.py	/^		current = current.parent ;$/;"	kind:variable	line:125
+current	SectionA/AI/8_Puzzle_UCS.py	/^	current = answer ;$/;"	kind:variable	line:122
 dfs	15puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:80
 dfs	8puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:102
+dfs	SectionA/AI/16puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:82
+dfs	SectionA/AI/8puzdfd.py	/^def dfs(arr,par,goal):$/;"	kind:function	line:20
+dfs	SectionA/AI/8puzzle.py	/^def dfs( start, goal, depth=10 ):$/;"	kind:function	line:80
+dfs	SectionA/AI/miscandfs.py	/^def dfs(n,par):$/;"	kind:function	line:19
+dfs	sliding_board.py	/^def dfs(state, goal, depth):$/;"	kind:function	line:18
+dfs_main	SectionA/AI/16puzzle.py	/^def dfs_main( start, goal, depth=50 ):$/;"	kind:function	line:104
+dfs_main	SectionA/AI/8puzzle.py	/^def dfs_main( start, goal, depth=50 ):$/;"	kind:function	line:102
 dfs_paths	romanian_astar.py	/^def dfs_paths(source, destination, path=None):$/;"	kind:function	line:26
 dfs_paths	romanian_path.py	/^def dfs_paths(source, destination, path=None):$/;"	kind:function	line:24
 dfs_paths	test.py	/^def dfs_paths(source, destination, path):$/;"	kind:function	line:33
+dice_rolls	SectionA/AI/Saboo/backgammon.py	/^dice_rolls = []$/;"	kind:variable	line:5
+dice_rolls	SectionA/AI/backgammon.py	/^dice_rolls = []$/;"	kind:variable	line:5
+dig1	SectionA/AI/nqueen_dfs.py	/^dig1 = []$/;"	kind:variable	line:3
+dig2	SectionA/AI/nqueen_dfs.py	/^dig2 = []$/;"	kind:variable	line:4
+dijkstra	djikstras.py	/^    def dijkstra(self, src):$/;"	kind:member	line:40
 dirty_nodes	bot_clean.py	/^dirty_nodes = []$/;"	kind:variable	line:8
+display	SectionA/AI/n-queens_bfs.py	/^    def display(self, table):$/;"	kind:member	line:153
+display	connect_four.py	/^    def display(self):$/;"	kind:member	line:43
 display_board	15puzzle.py	/^def display_board( state ):$/;"	kind:function	line:5
 display_board	8puzzle.py	/^def display_board( state ):$/;"	kind:function	line:8
-display_result	knights_tour.py	/^def display_result(node, x, y):$/;"	kind:function	line:63
-display_result	vcuum_bfs_self.py	/^def display_result(node, x, y):$/;"	kind:function	line:73
+display_board	nimgame.py	/^    def display_board(self):$/;"	kind:member	line:47
+display_result	knights_tour.py	/^def display_result(node, x, y):$/;"	kind:function	line:64
+display_result	vcuum_bfs_self.py	/^def display_result(node, x, y):$/;"	kind:function	line:94
 distTo	bot_clean.py	/^    def distTo(self, target):$/;"	kind:member	line:6
+djikstras.py	djikstras.py	1;"	kind:file	line:1
+dls	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^def dls(node, depth):$/;"	kind:function	line:29
+dls	Sayantan(lab4,5)/Lab 5/sliding_board.py	/^def dls(state, goal, depth):$/;"	kind:function	line:21
+dls	gem_iterative.py	/^def dls(node, depth):$/;"	kind:function	line:29
+dom	Arpit/my codes/Map_col_mrv_dh_lcv.py	/^dom=[['Red','Green','Blue']for i in range(n)]$/;"	kind:variable	line:61
+dom	Arpit/my codes/map_col_ac3.py	/^dom=[['Red','Blue','Green']for i in range(n)]$/;"	kind:variable	line:38
+dom	Arpit/my codes/nq_ac3.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:81
+dom	Arpit/my codes/sudoku_csp.py	/^dom=[[[j+1 for j in range(9)]for k in range(9)]for i in range(9)]$/;"	kind:variable	line:78
+dom	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:83
+dom	Arpit/saboo codes/drive-download-20171114T080828Z-001/Map_col_mrv_dh_lcv.py	/^dom=[['Red','Green','Blue']for i in range(n)]$/;"	kind:variable	line:61
+dom	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:69
+dom	Arpit/saboo codes/drive-download-20171114T080828Z-001/map_col_ac3.py	/^dom=[['Red','Blue','Green']for i in range(n)]$/;"	kind:variable	line:38
+dom	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	/^dom=[[i for i in range(n)]for j in range(n)]$/;"	kind:variable	line:50
+dom	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	/^dom=[[[j+1 for j in range(9)]for k in range(9)]for i in range(9)]$/;"	kind:variable	line:78
+dom	SectionA/AI/Saboo/AC3.py	/^dom=[[[j+1 for j in range(9)]for k in range(9)]for i in range(9)]$/;"	kind:variable	line:80
+dom	SectionA/AI/Saboo/AC3_final.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:83
+dom	SectionA/AI/Saboo/IIT2015050_1.py	/^dom=[[[j+1 for j in range(9)]for k in range(9)]for i in range(9)]$/;"	kind:variable	line:141
+dom	SectionA/AI/Saboo/IIT2015050_2.py	/^dom=[[[j+1 for j in range(9)]for k in range(9)]for i in range(9)]$/;"	kind:variable	line:78
+dom	SectionA/AI/Saboo/Map_col_mrv_dh_lcv.py	/^dom=[['Red','Green','Blue']for i in range(n)]$/;"	kind:variable	line:61
+dom	SectionA/AI/Saboo/ac3_nqueen.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:69
+dom	SectionA/AI/Saboo/map_col_ac3.py	/^dom=[['Red','Blue','Green']for i in range(n)]$/;"	kind:variable	line:38
+dom	SectionA/AI/Saboo/nqeen_mrv.py	/^dom=[[i for i in range(n)]for j in range(n)]$/;"	kind:variable	line:50
+dom	SectionA/AI/Saboo/sudoku_csp.py	/^dom=[[[j+1 for j in range(9)]for k in range(9)]for i in range(9)]$/;"	kind:variable	line:78
+dom	SectionA/AI/nq_ac3.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:81
+dom	bhatia/all/AC3_final.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:83
+dom	bhatia/all/Map_col_mrv_dh_lcv.py	/^dom=[['Red','Green','Blue']for i in range(n)]$/;"	kind:variable	line:61
+dom	bhatia/all/ac3_nqueen.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:69
+dom	bhatia/all/map_col_ac3.py	/^dom=[['Red','Blue','Green']for i in range(n)]$/;"	kind:variable	line:38
+dom	bhatia/all/nq_ac3B.py	/^dom=[[j for j in range(n)]for i in range(n)]$/;"	kind:variable	line:81
+dom	bhatia/all/nqeen_mrv.py	/^dom=[[i for i in range(n)]for j in range(n)]$/;"	kind:variable	line:50
+dom	bhatia/all/sudoku_csp.py	/^dom=[[[j+1 for j in range(9)]for k in range(9)]for i in range(9)]$/;"	kind:variable	line:78
+downCost	SectionA/AI/8_Puzzle_UCS.py	/^downCost = int(input("Enter down cost") ) ;$/;"	kind:variable	line:103
+evaluate	Arpit/my codes/tic.py	/^def evaluate(b):$/;"	kind:function	line:14
+evaluate	Arpit/my codes/tic_alphaBeta.py	/^def evaluate(b):$/;"	kind:function	line:14
+evaluate	Arpit/my codes/tic_evaluationFunction.py	/^def evaluate(b):$/;"	kind:function	line:14
+evaluate	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^def evaluate(board):$/;"	kind:function	line:8
+evaluate	SectionA/AI/Saboo/tictactoeminmax.py	/^def evaluate(board):$/;"	kind:function	line:8
+exithandler	te.py	/^def exithandler(signal, frame):$/;"	kind:function	line:12
 expand_node	15puzzle.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:55
 expand_node	8puzzle.py	/^def expand_node( node, nodes ):$/;"	kind:function	line:64
-expand_nodes	knights_tour.py	/^def expand_nodes (node, n, m):$/;"	kind:function	line:25
+expand_nodes	knights_tour.py	/^def expand_nodes (node, n, m):$/;"	kind:function	line:26
 expand_nodes	vacuum_bfs.py	/^def expand_nodes(node, visited):$/;"	kind:function	line:34
-expand_nodes	vcuum_bfs_self.py	/^def expand_nodes (node, n, m):$/;"	kind:function	line:28
+expand_nodes	vcuum_bfs_self.py	/^def expand_nodes (node, n, m):$/;"	kind:function	line:44
+feasible	SectionA/AI/nqueen_dfs.py	/^def feasible(r, c):$/;"	kind:function	line:14
+fill	SectionA/AI/A*.py	/^def fill(s1, s2, v):$/;"	kind:function	line:21
+fill	SectionA/AI/vacuum.py	/^	def fill(self, p):$/;"	kind:member	line:16
+final_state	SectionA/AI/8_Puzzle_UCS.py	/^final_state = State ( lis ) ;$/;"	kind:variable	line:114
+find	kruskal.py	/^    def find(self, parent, i):$/;"	kind:member	line:22
+findBestMove	Arpit/my codes/tic.py	/^def findBestMove(board, player):$/;"	kind:function	line:76
+findBestMove	Arpit/my codes/tic_alphaBeta.py	/^def findBestMove(board):$/;"	kind:function	line:82
+findBestMove	Arpit/my codes/tic_evaluationFunction.py	/^def findBestMove(board):$/;"	kind:function	line:122
+findColouring	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^def findColouring(col, count):$/;"	kind:function	line:41
+findColouring	SectionA/AI/mapColouring/mapcoloring.py	/^def findColouring(col, count):$/;"	kind:function	line:41
+findColouring	bhatia/mapColouring/1.py	/^def findColouring(col, count):$/;"	kind:function	line:41
+find_empty_location	sudoku.py	/^def find_empty_location(arr,l):$/;"	kind:function	line:19
+find_gem.py	Sayantan(lab4,5)/Lab 5/find_gem.py	1;"	kind:file	line:1
+find_gem_circular.py	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	1;"	kind:file	line:1
+find_gem_iterative.py	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	1;"	kind:file	line:1
+find_gem_turn.py	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	1;"	kind:file	line:1
+find_parent	graph_undirected.py	/^	def find_parent(self, parent,i):$/;"	kind:member	line:19
+find_unass	Arpit/my codes/sudoku_csp.py	/^def find_unass(board):$/;"	kind:function	line:57
+find_unass	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	/^def find_unass(board):$/;"	kind:function	line:57
+find_unass	SectionA/AI/Saboo/AC3.py	/^def find_unass(board):$/;"	kind:function	line:57
+find_unass	SectionA/AI/Saboo/IIT2015050_1.py	/^def find_unass(board):$/;"	kind:function	line:65
+find_unass	SectionA/AI/Saboo/IIT2015050_2.py	/^def find_unass(board):$/;"	kind:function	line:57
+find_unass	SectionA/AI/Saboo/sudoku_csp.py	/^def find_unass(board):$/;"	kind:function	line:57
+find_unass	bhatia/all/sudoku_csp.py	/^def find_unass(board):$/;"	kind:function	line:57
+findbestmove	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^def findbestmove(board, player):$/;"	kind:function	line:69
+findbestmove	SectionA/AI/Saboo/tictactoeminmax.py	/^def findbestmove(board, player):$/;"	kind:function	line:63
+findnextlevel	SectionA/AI/miscanucs.py	/^def findnextlevel(state):$/;"	kind:function	line:10
+finish	SectionA/AI/n-queens_bfs.py	/^    def finish(self, table, col):$/;"	kind:member	line:195
 flag	student_placement.py	/^            flag = 1$/;"	kind:variable	line:97
 flag	student_placement.py	/^    flag = 0$/;"	kind:variable	line:88
+func	SectionA/AI/vaccumucs.py	/^def func(cstatus, x, y, c, n, m, visited):$/;"	kind:function	line:27
+g	djikstras.py	/^g  = Graph(9)$/;"	kind:variable	line:69
+g	graph_cycle.py	/^g = Graph(4)$/;"	kind:variable	line:43
+g	graph_undirected.py	/^g = Graph(3)$/;"	kind:variable	line:54
+g	kruskal.py	/^g = Graph(4)$/;"	kind:variable	line:94
+g	prims.py	/^g  = Graph(5)$/;"	kind:variable	line:68
+g1	hamiltonian.py	/^g1 = Graph(5)$/;"	kind:variable	line:88
+g2	hamiltonian.py	/^g2 = Graph(5)$/;"	kind:variable	line:102
 gem.py	gem.py	1;"	kind:file	line:1
+gem_circular.py	gem_circular.py	1;"	kind:file	line:1
+gem_iterative.py	gem_iterative.py	1;"	kind:file	line:1
+get	connect_four.py	/^    def get(self, x, y):$/;"	kind:member	line:26
+getIndex	SectionA/AI/A*.py	/^def getIndex(s):$/;"	kind:function	line:18
+getList	SectionA/AI/8_Puzzle_UCS.py	/^def getList ( current_grid ) :$/;"	kind:function	line:17
+getMRVDH	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^def getMRVDH(col):$/;"	kind:function	line:1
+getMRVDH	SectionA/AI/mapColouring/mapcoloring.py	/^def getMRVDH(col):$/;"	kind:function	line:1
+getMRVDH	bhatia/mapColouring/1.py	/^def getMRVDH(col):$/;"	kind:function	line:1
+getPositions	SectionA/AI/n-queens_bfs.py	/^    def getPositions(self, table, col):        $/;"	kind:member	line:70
+getTotal	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^def getTotal(id, col):$/;"	kind:function	line:34
+getTotal	SectionA/AI/mapColouring/mapcoloring.py	/^def getTotal(id, col):$/;"	kind:function	line:34
+getTotal	bhatia/mapColouring/1.py	/^def getTotal(id, col):$/;"	kind:function	line:34
+getValid	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^def getValid(id, col):$/;"	kind:function	line:22
+getValid	SectionA/AI/mapColouring/mapcoloring.py	/^def getValid(id, col):$/;"	kind:function	line:22
+getValid	bhatia/mapColouring/1.py	/^def getValid(id, col):$/;"	kind:function	line:22
 getX	student_placement.py	/^def getX(index, m,n):$/;"	kind:function	line:3
 getY	student_placement.py	/^def getY(index,m,n):$/;"	kind:function	line:7
+get_bar_move	SectionA/AI/Saboo/backgammon.py	/^def get_bar_move():$/;"	kind:function	line:88
+get_bar_move	SectionA/AI/backgammon.py	/^def get_bar_move():$/;"	kind:function	line:88
+get_bear_off_move	SectionA/AI/Saboo/backgammon.py	/^def get_bear_off_move():$/;"	kind:function	line:24
+get_bear_off_move	SectionA/AI/backgammon.py	/^def get_bear_off_move():$/;"	kind:function	line:24
+get_collisions	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def get_collisions(student, seat):$/;"	kind:function	line:34
 get_cost	p_astar(final).py	/^def get_cost(n1):$/;"	kind:function	line:21
+get_int	nimgame.py	/^    def get_int(self, prompt, min_value, max_value):$/;"	kind:member	line:31
+get_moves	SectionA/AI/Saboo/backgammon.py	/^def get_moves():$/;"	kind:function	line:108
+get_moves	SectionA/AI/backgammon.py	/^def get_moves():$/;"	kind:function	line:108
+get_normal_moves	SectionA/AI/Saboo/backgammon.py	/^def get_normal_moves():$/;"	kind:function	line:67
+get_normal_moves	SectionA/AI/backgammon.py	/^def get_normal_moves():$/;"	kind:function	line:67
+get_reverseHash	SectionA/AI/8_Puzzle_UCS.py	/^def get_reverseHash ( hash_val ) :$/;"	kind:function	line:31
+get_row	nimgame.py	/^    def get_row(self):$/;"	kind:member	line:21
 get_state_tuple	vacuum_bfs.py	/^def get_state_tuple(node):$/;"	kind:function	line:21
-goal	knights_tour.py	/^def goal(vis, n, m):$/;"	kind:function	line:12
+goal	SectionA/AI/8puzdfd.py	/^goal=[[1,2,3],[5,8,6],[0,7,4]]$/;"	kind:variable	line:81
+goal	SectionA/AI/8puzzlebfs.py	/^goal = [[0, 1, 2], [3, 4, 5], [6, 7, 8]]$/;"	kind:variable	line:3
+goal	SectionA/AI/8puzzledfs.py	/^goal = [[0, 1, 2], [3, 4, 5], [6, 7, 8]]$/;"	kind:variable	line:2
+goal	SectionA/AI/8puzzleucs.py	/^goal = [[0, 1, 2], [3, 4, 5], [6, 7, 8]]$/;"	kind:variable	line:3
+goal	SectionA/AI/A*.py	/^goal = input()$/;"	kind:variable	line:115
+goal	knights_tour.py	/^def goal(vis, n, m):$/;"	kind:function	line:13
 goal	p_astar(final).py	/^goal = dict()$/;"	kind:variable	line:6
 goal	vcuum_bfs_self.py	/^def goal(vis, n, m):$/;"	kind:function	line:15
 goal_state	15puzzle.py	/^goal_state = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]$/;"	kind:variable	line:1
 goal_state	8puzzle.py	/^goal_state = [1, 4, 7, 2, 5, 8, 3, 6, 0]$/;"	kind:variable	line:1
+goal_state	SectionA/AI/16puzzle.py	/^goal_state = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]$/;"	kind:variable	line:2
+goal_state	SectionA/AI/8puzzle.py	/^goal_state = [0, 1, 2, 3, 4, 5, 6, 7, 8]$/;"	kind:variable	line:2
 graph	romanian_path_self.py	/^        }$/;"	kind:variable	line:24
 graph	student_placement.py	/^    graph = [list() for x in range(100)]$/;"	kind:variable	line:76
+graph_cycle.py	graph_cycle.py	1;"	kind:file	line:1
+graph_undirected.py	graph_undirected.py	1;"	kind:file	line:1
+grid	SectionA/AI/N_Queen_UCS.py	/^grid = [ [ 0 for i in range(0,n)] for i in range(0,n) ] ;$/;"	kind:variable	line:77
 grid	bot_princess.py	/^grid = []$/;"	kind:variable	line:36
+grid	sudoku.py	/^    grid=[[0 for x in range(9)]for y in range(9)]$/;"	kind:variable	line:101
+grid	sudoku.py	/^    grid=[[3,0,6,5,0,8,4,0,0],$/;"	kind:variable	line:104
 h	15puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:135
 h	8puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:156
+h	SectionA/AI/16puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:132
+h	SectionA/AI/8puzzle.py	/^def h( state, goal ):$/;"	kind:function	line:130
+h	SectionA/AI/A*.py	/^h = []$/;"	kind:variable	line:5
+hamCycle	hamiltonian.py	/^    def hamCycle(self):$/;"	kind:member	line:58
+hamCycleUtil	hamiltonian.py	/^    def hamCycleUtil(self, path, pos):$/;"	kind:member	line:28
+hamiltonian.py	hamiltonian.py	1;"	kind:file	line:1
+hashed	SectionA/AI/8_Puzzle_UCS.py	/^def hashed ( state1 ) :$/;"	kind:function	line:24
+hello	SectionA/AI/N_Queen_UCS.py	/^hello = 100 ;$/;"	kind:variable	line:68
+help	te.py	/^                    help="GPIO pin (Default: 27)")$/;"	kind:variable	line:21
 ids	15puzzle.py	/^def ids( start, goal, depth=50 ):$/;"	kind:function	line:101
 ids	8puzzle.py	/^def ids( start, goal, depth=50 ):$/;"	kind:function	line:128
+initial	SectionA/AI/A*.py	/^initial = input()$/;"	kind:variable	line:114
+initial_grid	SectionA/AI/NQM.py	/^initial_grid = []$/;"	kind:variable	line:46
+initial_state	SectionA/AI/8_Puzzle_UCS.py	/^initial_state = State ( lis ) ;$/;"	kind:variable	line:108
+initialize	SectionA/AI/A*.py	/^def initialize():$/;"	kind:function	line:7
+initialize	gem_circular.py	/^def initialize(source):$/;"	kind:function	line:25
+initializeGraph	SectionA/AI/A*.py	/^def initializeGraph():$/;"	kind:function	line:27
+initializeHeuristic	SectionA/AI/A*.py	/^def initializeHeuristic():$/;"	kind:function	line:55
 inside_grid	vacuum_bfs.py	/^    def inside_grid(self):$/;"	kind:member	line:17
+inv	SectionA/AI/8puzdfd.py	/^            inv=inv+1$/;"	kind:variable	line:88
+inv	SectionA/AI/8puzdfd.py	/^inv=0$/;"	kind:variable	line:83
+isCyclic	graph_cycle.py	/^    def isCyclic(self):$/;"	kind:member	line:32
+isCyclic	graph_undirected.py	/^	def isCyclic(self):$/;"	kind:member	line:35
+isEmpty	SectionA/AI/8puzdfd.py	/^    def isEmpty(self):$/;"	kind:member	line:6
+isEmpty	SectionA/AI/miscandfs.py	/^    def isEmpty(self):$/;"	kind:member	line:5
+isEqual	SectionA/AI/8_Puzzle_UCS.py	/^def isEqual ( state1 , state2 ) :$/;"	kind:function	line:40
+isLeft	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^def isLeft(board):$/;"	kind:function	line:1
+isLeft	SectionA/AI/Saboo/tictactoeminmax.py	/^def isLeft(board):$/;"	kind:function	line:1
+isMoveLeft	Arpit/my codes/tic.py	/^def isMoveLeft(board):$/;"	kind:function	line:7
+isMoveLeft	Arpit/my codes/tic_alphaBeta.py	/^def isMoveLeft(board):$/;"	kind:function	line:7
+isMoveLeft	Arpit/my codes/tic_evaluationFunction.py	/^def isMoveLeft(board):$/;"	kind:function	line:7
+isSafe	SectionA/AI/N_Queen_UCS.py	/^def isSafe ( cur , row , col ) :$/;"	kind:function	line:5
+isSafe	SectionA/AI/nqueen.bfs.py	/^def isSafe(board, row, col, n):$/;"	kind:function	line:4
+isSafe	SectionA/AI/nqueendfs.py	/^def isSafe(board, row, col, n):$/;"	kind:function	line:14
+isSafe	SectionA/AI/nqueenucs.py	/^def isSafe(board, row, col, n):$/;"	kind:function	line:4
+isSafe	hamiltonian.py	/^    def isSafe(self, v, pos, path):$/;"	kind:member	line:13
 isSafe	nqueen.py	/^def isSafe(board, row, col):$/;"	kind:function	line:20
 is_center_point	tic_tac_toe.py	/^    def is_center_point(self):$/;"	kind:member	line:53
+is_goal	Sayantan(lab4,5)/Lab 5/find_gem.py	/^def is_goal(coordinate):$/;"	kind:function	line:40
+is_goal	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^def is_goal(coordinate):$/;"	kind:function	line:40
+is_goal	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^def is_goal(coordinate):$/;"	kind:function	line:25
+is_goal	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^def is_goal(coordinate):$/;"	kind:function	line:45
+is_goal	SectionA/AI/cannibalsmissionaries.py	/^	def is_goal(self):$/;"	kind:member	line:15
+is_goal	gem.py	/^def is_goal(coordinate):$/;"	kind:function	line:40
+is_goal	gem_circular.py	/^def is_goal(coordinate):$/;"	kind:function	line:48
+is_goal	gem_iterative.py	/^def is_goal(coordinate):$/;"	kind:function	line:25
 is_goal	missionary_cannibal.py	/^	def is_goal(self):$/;"	kind:member	line:15
 is_goal	vacuum_bfs.py	/^    def is_goal(self):$/;"	kind:member	line:14
+is_safe	Arpit/my codes/Map_col_mrv_dh_lcv.py	/^def is_safe(mnv,col,n,x):$/;"	kind:function	line:14
+is_safe	Arpit/saboo codes/drive-download-20171114T080828Z-001/Map_col_mrv_dh_lcv.py	/^def is_safe(mnv,col,n,x):$/;"	kind:function	line:15
+is_safe	SectionA/AI/Saboo/Map_col_mrv_dh_lcv.py	/^def is_safe(mnv,col,n,x):$/;"	kind:function	line:15
+is_safe	bhatia/all/Map_col_mrv_dh_lcv.py	/^def is_safe(mnv,col,n,x):$/;"	kind:function	line:15
+is_safe	knight.py	/^def is_safe(grid,x,y,n):$/;"	kind:function	line:13
 is_safe	student_placement.py	/^def is_safe(x,y,m,n):$/;"	kind:function	line:15
+is_valid	SectionA/AI/cannibalsmissionaries.py	/^	def is_valid(self):$/;"	kind:member	line:21
 is_valid	missionary_cannibal.py	/^	def is_valid(self):$/;"	kind:member	line:21
-isvalid	knights_tour.py	/^def isvalid(x, y, n, m):$/;"	kind:function	line:19
-isvalid	vcuum_bfs_self.py	/^def isvalid(node,x, y, n, m):$/;"	kind:function	line:22
+issolv	Arpit/saboo codes/drive-download-20171114T080828Z-001/Crypt_arithmetic.py	/^def issolv(a,b,c,map):$/;"	kind:function	line:1
+issolv	SectionA/AI/Saboo/Crypt_arithmetic.py	/^def issolv(a,b,c,map):$/;"	kind:function	line:1
+issolv	bhatia/all/Crypt_arithmetic.py	/^def issolv(a,b,c,map):$/;"	kind:function	line:1
+isvalid	knights_tour.py	/^def isvalid(x, y, n, m):$/;"	kind:function	line:20
+isvalid	vcuum_bfs_self.py	/^def isvalid(node,x, y, n, m,move):$/;"	kind:function	line:37
+iterative_deepening	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^def iterative_deepening(source):$/;"	kind:function	line:43
+iterative_deepening	Sayantan(lab4,5)/Lab 5/sliding_board.py	/^def iterative_deepening(source, goal):$/;"	kind:function	line:55
+iterative_deepening	gem_iterative.py	/^def iterative_deepening(source):$/;"	kind:function	line:43
+iterative_deepening	sliding_board.py	/^def iterative_deepening(source, goal):$/;"	kind:function	line:51
 iterative_dfs	p_dfs(final).py	/^def iterative_dfs(grid, source, goal):$/;"	kind:function	line:19
+j	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	/^        j = j + 1$/;"	kind:variable	line:105
+j	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	/^    j = 0$/;"	kind:variable	line:102
+j	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	/^        j = j + 1$/;"	kind:variable	line:114
+j	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	/^    j = 0$/;"	kind:variable	line:111
+j	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^        j = j + 1$/;"	kind:variable	line:115
+j	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^    j = 0$/;"	kind:variable	line:112
+j	SectionA/AI/Saboo/minimax_tic_tac_toe.py	/^        j = j + 1$/;"	kind:variable	line:105
+j	SectionA/AI/Saboo/minimax_tic_tac_toe.py	/^    j = 0$/;"	kind:variable	line:102
+j	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	/^        j = j + 1$/;"	kind:variable	line:114
+j	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	/^    j = 0$/;"	kind:variable	line:111
+j	SectionA/AI/Saboo/tictacpath.py	/^        j = j + 1$/;"	kind:variable	line:115
+j	SectionA/AI/Saboo/tictacpath.py	/^    j = 0$/;"	kind:variable	line:112
+j	bhatia/all/minimax_tic_tac_toe.py	/^        j = j + 1$/;"	kind:variable	line:105
+j	bhatia/all/minimax_tic_tac_toe.py	/^    j = 0$/;"	kind:variable	line:102
+j	bhatia/all/tic_tac_toe_alpha_beta.py	/^        j = j + 1$/;"	kind:variable	line:114
+j	bhatia/all/tic_tac_toe_alpha_beta.py	/^    j = 0$/;"	kind:variable	line:111
+k	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^		k = input()$/;"	kind:variable	line:110
+k	SectionA/AI/Saboo/tictactoeminmax.py	/^		k = input()$/;"	kind:variable	line:104
+knight.py	knight.py	1;"	kind:file	line:1
+knightm	knight.py	/^def knightm(grid,n,x,y,num):$/;"	kind:function	line:22
+knights_backtracking.py	knights_backtracking.py	1;"	kind:file	line:1
 knights_tour.py	knights_tour.py	1;"	kind:file	line:1
+kruskal.py	kruskal.py	1;"	kind:file	line:1
+leftCost	SectionA/AI/8_Puzzle_UCS.py	/^leftCost = int(input("Enter left cost") ) ;$/;"	kind:variable	line:104
+lis	SectionA/AI/8_Puzzle_UCS.py	/^lis = [ '0' for i in range ( 0 , 9 ) ] ;$/;"	kind:variable	line:109
+lis	SectionA/AI/8_Puzzle_UCS.py	/^lis = str1.split(' ') ;$/;"	kind:variable	line:107
+lis	SectionA/AI/8_Puzzle_UCS.py	/^lis = str1.split(' ') ;$/;"	kind:variable	line:113
+loopBoard	SectionA/AI/n-queens_bfs.py	/^    def loopBoard(self):$/;"	kind:member	line:42
+ls	Arpit/saboo codes/drive-download-20171114T080828Z-001/Crypt_arithmetic.py	/^ls=input().split(' ')$/;"	kind:variable	line:31
+ls	SectionA/AI/Saboo/Crypt_arithmetic.py	/^ls=input().split(' ')$/;"	kind:variable	line:31
+ls	bhatia/all/Crypt_arithmetic.py	/^ls=input().split(' ')$/;"	kind:variable	line:31
+m	Arpit/my codes/tic.py	/^m = findBestMove(board, player)$/;"	kind:variable	line:148
+m	Arpit/my codes/tic_alphaBeta.py	/^m = findBestMove(board)$/;"	kind:variable	line:126
+m	Arpit/my codes/tic_evaluationFunction.py	/^m = findBestMove(board)$/;"	kind:variable	line:162
+m	SectionA/AI/a1.py	/^m = input();$/;"	kind:variable	line:44
+m	SectionA/AI/vaccumucs.py	/^m = int(m)$/;"	kind:variable	line:67
 m	bot_princess.py	/^m = input()$/;"	kind:variable	line:34
 main	15puzzle.py	/^def main():$/;"	kind:function	line:168
 main	8puzzle.py	/^def main():$/;"	kind:function	line:182
-main	gem.py	/^def main():$/;"	kind:function	line:31
+main	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def main():$/;"	kind:function	line:123
+main	Sayantan(lab4,5)/Lab 5/find_gem.py	/^def main():$/;"	kind:function	line:62
+main	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^def main():$/;"	kind:function	line:77
+main	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^def main():$/;"	kind:function	line:50
+main	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^def main():$/;"	kind:function	line:75
+main	Sayantan(lab4,5)/Lab 5/sliding_board.py	/^def main():$/;"	kind:function	line:66
+main	SectionA/AI/16puzzle.py	/^def main():$/;"	kind:function	line:157
+main	SectionA/AI/8puzzle.py	/^def main():$/;"	kind:function	line:155
+main	SectionA/AI/8puzzlebfs.py	/^def main():$/;"	kind:function	line:51
+main	SectionA/AI/8puzzledfs.py	/^def main():$/;"	kind:function	line:58
+main	SectionA/AI/8puzzleucs.py	/^def main():$/;"	kind:function	line:52
+main	SectionA/AI/cannibalsmissionaries.py	/^def main():$/;"	kind:function	line:136
+main	SectionA/AI/miscanucs.py	/^def main():$/;"	kind:function	line:86
+main	SectionA/AI/nqueen.bfs.py	/^def main():$/;"	kind:function	line:48
+main	SectionA/AI/nqueendfs.py	/^def main():$/;"	kind:function	line:50
+main	SectionA/AI/nqueenucs.py	/^def main():$/;"	kind:function	line:48
+main	connect_four.py	/^    def main(self):$/;"	kind:member	line:12
+main	gem.py	/^def main():$/;"	kind:function	line:62
+main	gem_circular.py	/^def main():$/;"	kind:function	line:86
+main	gem_iterative.py	/^def main():$/;"	kind:function	line:49
+main	knight.py	/^def main():$/;"	kind:function	line:38
 main	missionary_cannibal.py	/^def main():$/;"	kind:function	line:136
 main	p_astar(final).py	/^def main():$/;"	kind:function	line:42
 main	p_bfs(final).py	/^def main():$/;"	kind:function	line:32
@@ -129,72 +732,415 @@ main	p_dfs(final).py	/^def main():$/;"	kind:function	line:34
 main	p_ucs(final).py	/^def main():$/;"	kind:function	line:37
 main	romanian_astar.py	/^def main():$/;"	kind:function	line:110
 main	romanian_path.py	/^def main():$/;"	kind:function	line:32
+main	sliding_board.py	/^def main():$/;"	kind:function	line:60
 main	test.py	/^def main():$/;"	kind:function	line:62
 main	vacuum_bfs.py	/^def main():$/;"	kind:function	line:57
+make_graph	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def make_graph():$/;"	kind:function	line:20
+make_tuple	Sayantan(lab4,5)/Lab 5/sliding_board.py	/^def make_tuple(state):$/;"	kind:function	line:17
+make_tuple	sliding_board.py	/^def make_tuple(state):$/;"	kind:function	line:15
+map	Arpit/saboo codes/drive-download-20171114T080828Z-001/Crypt_arithmetic.py	/^map={}$/;"	kind:variable	line:53
+map	SectionA/AI/Saboo/Crypt_arithmetic.py	/^map={}$/;"	kind:variable	line:53
+map	bhatia/all/Crypt_arithmetic.py	/^map={}$/;"	kind:variable	line:53
+map_col_ac3.py	Arpit/my codes/map_col_ac3.py	1;"	kind:file	line:1
+map_col_ac3.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/map_col_ac3.py	1;"	kind:file	line:1
+map_col_ac3.py	SectionA/AI/Saboo/map_col_ac3.py	1;"	kind:file	line:1
+map_col_ac3.py	bhatia/all/map_col_ac3.py	1;"	kind:file	line:1
+mapcoloring.py	SectionA/AI/Saboo/mapColouring/mapcoloring.py	1;"	kind:file	line:1
+mapcoloring.py	SectionA/AI/mapColouring/mapcoloring.py	1;"	kind:file	line:1
+mark	SectionA/AI/A*.py	/^def mark(s, v):$/;"	kind:function	line:51
 matrix	student_placement.py	/^    matrix = [-1] * 100$/;"	kind:variable	line:85
+maxx	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^maxx = 1000$/;"	kind:variable	line:116
+minDistance	djikstras.py	/^    def minDistance(self, dist, sptSet):$/;"	kind:member	line:23
+minKey	prims.py	/^    def minKey(self, key, mstSet):$/;"	kind:member	line:21
+minimax	Arpit/my codes/tic.py	/^def minimax(board, depth, isMax):$/;"	kind:function	line:43
+minimax	Arpit/my codes/tic_alphaBeta.py	/^def minimax(board, depth, isMax, a, b):$/;"	kind:function	line:43
+minimax	Arpit/my codes/tic_evaluationFunction.py	/^def minimax(board, depth, isMax):$/;"	kind:function	line:91
+minimax_tic_tac_toe.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	1;"	kind:file	line:1
+minimax_tic_tac_toe.py	SectionA/AI/Saboo/minimax_tic_tac_toe.py	1;"	kind:file	line:1
+minimax_tic_tac_toe.py	bhatia/all/minimax_tic_tac_toe.py	1;"	kind:file	line:1
+minmax	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^def minmax(board, depth, isMax, alpha, beta):$/;"	kind:function	line:33
+minmax	SectionA/AI/Saboo/tictactoeminmax.py	/^def minmax(board, depth, isMax):$/;"	kind:function	line:33
+minx	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^minx = -1000$/;"	kind:variable	line:115
+miscandfs.py	SectionA/AI/miscandfs.py	1;"	kind:file	line:1
+miscanucs.py	SectionA/AI/miscanucs.py	1;"	kind:file	line:1
 missionary_cannibal.py	missionary_cannibal.py	1;"	kind:file	line:1
+move	Arpit/my codes/tic.py	/^class move:$/;"	kind:class	line:1
+move	Arpit/my codes/tic_alphaBeta.py	/^class move:$/;"	kind:class	line:1
+move	Arpit/my codes/tic_evaluationFunction.py	/^class move:$/;"	kind:class	line:1
 move	bot_clean.py	/^move=' '$/;"	kind:variable	line:9
+move	knights_backtracking.py	/^def move(x,y,m):$/;"	kind:function	line:4
+moveDown	SectionA/AI/vacuum.py	/^	def moveDown(self, tup):$/;"	kind:member	line:35
+moveLeft	SectionA/AI/vacuum.py	/^	def moveLeft(self, tup):$/;"	kind:member	line:40
+moveRight	SectionA/AI/vacuum.py	/^	def moveRight(self, tup):$/;"	kind:member	line:45
+moveUp	SectionA/AI/vacuum.py	/^	def moveUp(self, tup):$/;"	kind:member	line:30
 move_cleaner	vacuum_bfs.py	/^def move_cleaner(node, direction):$/;"	kind:function	line:24
 move_down	15puzzle.py	/^def move_down( state ):$/;"	kind:function	line:25
 move_down	8puzzle.py	/^def move_down( state ):$/;"	kind:function	line:28
+move_down	SectionA/AI/16puzzle.py	/^def move_down( state ):$/;"	kind:function	line:26
+move_down	SectionA/AI/8puzzle.py	/^def move_down( state ):$/;"	kind:function	line:24
 move_left	15puzzle.py	/^def move_left( state ):$/;"	kind:function	line:34
 move_left	8puzzle.py	/^def move_left( state ):$/;"	kind:function	line:39
-move_next	gem.py	/^def move_next(grid, coordinate):$/;"	kind:function	line:6
+move_left	SectionA/AI/16puzzle.py	/^def move_left( state ):$/;"	kind:function	line:35
+move_left	SectionA/AI/8puzzle.py	/^def move_left( state ):$/;"	kind:function	line:33
+move_next	Sayantan(lab4,5)/Lab 5/find_gem.py	/^def move_next(node, current_path):$/;"	kind:function	line:24
+move_next	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^def move_next(node, current_path):$/;"	kind:function	line:25
+move_next	Sayantan(lab4,5)/Lab 5/find_gem_iterative.py	/^def move_next(node):$/;"	kind:function	line:12
+move_next	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^def move_next(node):$/;"	kind:function	line:28
+move_next	gem.py	/^def move_next(node, current_path):$/;"	kind:function	line:24
+move_next	gem_circular.py	/^def move_next(node, current_path):$/;"	kind:function	line:33
+move_next	gem_iterative.py	/^def move_next(node):$/;"	kind:function	line:12
 move_next	p_astar(final).py	/^def move_next(grid, coordinate):$/;"	kind:function	line:8
 move_next	p_bfs(final).py	/^def move_next(grid, coordinate):$/;"	kind:function	line:6
 move_next	p_dfs(final).py	/^def move_next(grid, coordinate):$/;"	kind:function	line:8
 move_next	p_ucs(final).py	/^def move_next(grid, coordinate):$/;"	kind:function	line:9
 move_right	15puzzle.py	/^def move_right( state ):$/;"	kind:function	line:43
 move_right	8puzzle.py	/^def move_right( state ):$/;"	kind:function	line:50
+move_right	SectionA/AI/16puzzle.py	/^def move_right( state ):$/;"	kind:function	line:44
+move_right	SectionA/AI/8puzzle.py	/^def move_right( state ):$/;"	kind:function	line:42
 move_up	15puzzle.py	/^def move_up( state ):$/;"	kind:function	line:16
 move_up	8puzzle.py	/^def move_up( state ):$/;"	kind:function	line:17
+move_up	SectionA/AI/16puzzle.py	/^def move_up( state ):$/;"	kind:function	line:17
+move_up	SectionA/AI/8puzzle.py	/^def move_up( state ):$/;"	kind:function	line:15
+moves	SectionA/AI/Saboo/backgammon.py	/^    moves = get_moves()$/;"	kind:variable	line:165
+moves	SectionA/AI/backgammon.py	/^    moves = get_moves()$/;"	kind:variable	line:165
+mp	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^    mp=0$/;"	kind:variable	line:120
+mp	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^    mp=1$/;"	kind:variable	line:118
+mp	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^    mp=1-mp$/;"	kind:variable	line:133
+mp	SectionA/AI/A*.py	/^mp = initialize()$/;"	kind:variable	line:105
+mp	SectionA/AI/Saboo/tictacpath.py	/^    mp=0$/;"	kind:variable	line:120
+mp	SectionA/AI/Saboo/tictacpath.py	/^    mp=1$/;"	kind:variable	line:118
+mp	SectionA/AI/Saboo/tictacpath.py	/^    mp=1-mp$/;"	kind:variable	line:133
+n	Arpit/my codes/nq_ac3.py	/^n=input()$/;"	kind:variable	line:77
+n	Arpit/my codes/nq_ac3.py	/^n=int(n)$/;"	kind:variable	line:78
+n	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	/^n=input()$/;"	kind:variable	line:80
+n	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	/^n=int(n)$/;"	kind:variable	line:81
+n	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^n=input()$/;"	kind:variable	line:66
+n	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^n=int(n)$/;"	kind:variable	line:67
+n	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	/^n=int(input())$/;"	kind:variable	line:46
+n	SectionA/AI/A*.py	/^n = 20$/;"	kind:variable	line:3
+n	SectionA/AI/NQM.py	/^n = int(input())$/;"	kind:variable	line:45
+n	SectionA/AI/N_Queen_UCS.py	/^n = int ( input() ) ;$/;"	kind:variable	line:66
+n	SectionA/AI/Saboo/AC3_final.py	/^n=input()$/;"	kind:variable	line:80
+n	SectionA/AI/Saboo/AC3_final.py	/^n=int(n)$/;"	kind:variable	line:81
+n	SectionA/AI/Saboo/ac3_nqueen.py	/^n=input()$/;"	kind:variable	line:66
+n	SectionA/AI/Saboo/ac3_nqueen.py	/^n=int(n)$/;"	kind:variable	line:67
+n	SectionA/AI/Saboo/mapColouring/mapcoloring.py	/^n = (int)(input())$/;"	kind:variable	line:68
+n	SectionA/AI/Saboo/nqeen_mrv.py	/^n=int(input())$/;"	kind:variable	line:46
+n	SectionA/AI/a1.py	/^n = input();$/;"	kind:variable	line:43
+n	SectionA/AI/mapColouring/mapcoloring.py	/^n = (int)(input())$/;"	kind:variable	line:68
+n	SectionA/AI/miscandfs.py	/^n=input()$/;"	kind:variable	line:182
+n	SectionA/AI/miscandfs.py	/^n=int(n)$/;"	kind:variable	line:183
+n	SectionA/AI/nq_ac3.py	/^n=input()$/;"	kind:variable	line:77
+n	SectionA/AI/nq_ac3.py	/^n=int(n)$/;"	kind:variable	line:78
+n	SectionA/AI/nqueen_dfs.py	/^n = (int)(input())$/;"	kind:variable	line:6
+n	SectionA/AI/vaccumucs.py	/^n = int(n)$/;"	kind:variable	line:66
+n	bhatia/all/AC3_final.py	/^n=input()$/;"	kind:variable	line:80
+n	bhatia/all/AC3_final.py	/^n=int(n)$/;"	kind:variable	line:81
+n	bhatia/all/ac3_nqueen.py	/^n=input()$/;"	kind:variable	line:66
+n	bhatia/all/ac3_nqueen.py	/^n=int(n)$/;"	kind:variable	line:67
+n	bhatia/all/nq_ac3B.py	/^n=input()$/;"	kind:variable	line:77
+n	bhatia/all/nq_ac3B.py	/^n=int(n)$/;"	kind:variable	line:78
+n	bhatia/all/nqeen_mrv.py	/^n=int(input())$/;"	kind:variable	line:46
+n	bhatia/mapColouring/1.py	/^n = (int)(input())$/;"	kind:variable	line:68
+n-queens_bfs.py	SectionA/AI/n-queens_bfs.py	1;"	kind:file	line:1
+n_queens_bfs	SectionA/AI/nqueen.bfs.py	/^def n_queens_bfs(q, board, n):$/;"	kind:function	line:24
+n_queens_bfs	SectionA/AI/nqueenucs.py	/^def n_queens_bfs(q, board, n):$/;"	kind:function	line:24
 near_flag	bot_clean.py	/^near_flag=0$/;"	kind:variable	line:11
 nearest_node	bot_clean.py	/^nearest_node  = None$/;"	kind:variable	line:12
+nextMove	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	/^def nextMove(player, board):$/;"	kind:function	line:75
+nextMove	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	/^def nextMove(player, board):$/;"	kind:function	line:84
+nextMove	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^def nextMove(player, board):$/;"	kind:function	line:84
+nextMove	SectionA/AI/Saboo/minimax_tic_tac_toe.py	/^def nextMove(player, board):$/;"	kind:function	line:75
+nextMove	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	/^def nextMove(player, board):$/;"	kind:function	line:84
+nextMove	SectionA/AI/Saboo/tictacpath.py	/^def nextMove(player, board):$/;"	kind:function	line:84
+nextMove	bhatia/all/minimax_tic_tac_toe.py	/^def nextMove(player, board):$/;"	kind:function	line:75
+nextMove	bhatia/all/tic_tac_toe_alpha_beta.py	/^def nextMove(player, board):$/;"	kind:function	line:84
 nextMove	bot_princess.py	/^def nextMove(m, grid):$/;"	kind:function	line:1
 next_move	bot_clean.py	/^def next_move(posx, posy, board):$/;"	kind:function	line:15
 next_move	tic_tac_toe.py	/^def next_move(player, board):$/;"	kind:function	line:57
+next_nodes	SectionA/AI/16puzzle.py	/^def next_nodes( node, nodes ):$/;"	kind:function	line:56
+next_nodes	SectionA/AI/8puzzle.py	/^def next_nodes( node, nodes ):$/;"	kind:function	line:54
+nimgame.py	nimgame.py	1;"	kind:file	line:1
+nq_ac3.py	Arpit/my codes/nq_ac3.py	1;"	kind:file	line:1
+nq_ac3.py	SectionA/AI/nq_ac3.py	1;"	kind:file	line:1
+nq_ac3B.py	bhatia/all/nq_ac3B.py	1;"	kind:file	line:1
+nqchecker	Arpit/my codes/nq_ac3.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqchecker	Arpit/saboo codes/drive-download-20171114T080828Z-001/AC3_final.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqchecker	Arpit/saboo codes/drive-download-20171114T080828Z-001/ac3_nqueen.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqchecker	SectionA/AI/Saboo/AC3_final.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqchecker	SectionA/AI/Saboo/ac3_nqueen.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqchecker	SectionA/AI/nq_ac3.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqchecker	bhatia/all/AC3_final.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqchecker	bhatia/all/ac3_nqueen.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqchecker	bhatia/all/nq_ac3B.py	/^def nqchecker(ans,n):$/;"	kind:function	line:3
+nqeen_mrv.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	1;"	kind:file	line:1
+nqeen_mrv.py	SectionA/AI/Saboo/nqeen_mrv.py	1;"	kind:file	line:1
+nqeen_mrv.py	bhatia/all/nqeen_mrv.py	1;"	kind:file	line:1
+nqueen	SectionA/AI/nqueen_dfs.py	/^def nqueen(r):$/;"	kind:function	line:22
+nqueen.bfs.py	SectionA/AI/nqueen.bfs.py	1;"	kind:file	line:1
 nqueen.py	nqueen.py	1;"	kind:file	line:1
+nqueen_dfs.py	SectionA/AI/nqueen_dfs.py	1;"	kind:file	line:1
+nqueendfs.py	SectionA/AI/nqueendfs.py	1;"	kind:file	line:1
+nqueenucs.py	SectionA/AI/nqueenucs.py	1;"	kind:file	line:1
 num	student_placement.py	/^        num = list(map(int,input().strip().split()))$/;"	kind:variable	line:79
+op	SectionA/AI/stack.py	/^op = input();$/;"	kind:variable	line:9
+order_dom_value	Arpit/my codes/Map_col_mrv_dh_lcv.py	/^def order_dom_value(mnv,dom,col,adj):$/;"	kind:function	line:19
+order_dom_value	Arpit/saboo codes/drive-download-20171114T080828Z-001/Map_col_mrv_dh_lcv.py	/^def order_dom_value(mnv,dom,col,adj):$/;"	kind:function	line:20
+order_dom_value	SectionA/AI/Saboo/Map_col_mrv_dh_lcv.py	/^def order_dom_value(mnv,dom,col,adj):$/;"	kind:function	line:20
+order_dom_value	bhatia/all/Map_col_mrv_dh_lcv.py	/^def order_dom_value(mnv,dom,col,adj):$/;"	kind:function	line:20
+p	SectionA/AI/A*.py	/^p = []$/;"	kind:variable	line:6
 p_astar(final).py	p_astar(final).py	1;"	kind:file	line:1
 p_bfs(final).py	p_bfs(final).py	1;"	kind:file	line:1
 p_dfs(final).py	p_dfs(final).py	1;"	kind:file	line:1
 p_ucs(final).py	p_ucs(final).py	1;"	kind:file	line:1
+par	SectionA/AI/8_Puzzle_UCS.py	/^par = State ( lis ) ;$/;"	kind:variable	line:110
+par	SectionA/AI/8puzdfd.py	/^par={}$/;"	kind:variable	line:82
+par	SectionA/AI/miscandfs.py	/^par={}$/;"	kind:variable	line:184
+parser	te.py	/^parser = argparse.ArgumentParser(description='Receives a decimal code via a 433\/315MHz GPIO device')$/;"	kind:variable	line:19
+peek	SectionA/AI/8puzdfd.py	/^    def peek(self):$/;"	kind:member	line:15
+peek	SectionA/AI/miscandfs.py	/^    def peek(self):$/;"	kind:member	line:14
+place	connect_four.py	/^    def place(self):$/;"	kind:member	line:58
+placeQueen	SectionA/AI/n-queens_bfs.py	/^    def placeQueen(self, table, row, col):$/;"	kind:member	line:36
+places	SectionA/AI/N_Queen_UCS.py	/^places = answers.get() ;$/;"	kind:variable	line:76
+play	nimgame.py	/^    def play(self):$/;"	kind:member	line:6
+player	Arpit/my codes/tic.py	/^player = raw_input()$/;"	kind:variable	line:140
+player	Arpit/my codes/tic_alphaBeta.py	/^player = raw_input()$/;"	kind:variable	line:118
+player	Arpit/my codes/tic_evaluationFunction.py	/^player = raw_input()$/;"	kind:variable	line:154
+player	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	/^player = input()$/;"	kind:variable	line:97
+player	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	/^player = input()$/;"	kind:variable	line:106
+player	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^        player='O'$/;"	kind:variable	line:130
+player	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^        player='X'$/;"	kind:variable	line:132
+player	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^player = raw_input()$/;"	kind:variable	line:107
+player	SectionA/AI/Saboo/backgammon.py	/^    player = input()$/;"	kind:variable	line:148
+player	SectionA/AI/Saboo/backgammon.py	/^player = 0$/;"	kind:variable	line:6
+player	SectionA/AI/Saboo/minimax_tic_tac_toe.py	/^player = input()$/;"	kind:variable	line:97
+player	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	/^player = input()$/;"	kind:variable	line:106
+player	SectionA/AI/Saboo/tictacpath.py	/^        player='O'$/;"	kind:variable	line:130
+player	SectionA/AI/Saboo/tictacpath.py	/^        player='X'$/;"	kind:variable	line:132
+player	SectionA/AI/Saboo/tictacpath.py	/^player = input()$/;"	kind:variable	line:107
+player	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^player = input()$/;"	kind:variable	line:104
+player	SectionA/AI/Saboo/tictactoeminmax.py	/^player = input()$/;"	kind:variable	line:98
+player	SectionA/AI/backgammon.py	/^    player = input()$/;"	kind:variable	line:148
+player	SectionA/AI/backgammon.py	/^player = 0$/;"	kind:variable	line:6
+player	bhatia/all/minimax_tic_tac_toe.py	/^player = input()$/;"	kind:variable	line:97
+player	bhatia/all/tic_tac_toe_alpha_beta.py	/^player = input()$/;"	kind:variable	line:106
 player	tic_tac_toe.py	/^player = raw_input()$/;"	kind:variable	line:108
+playerOneTurn	SectionA/AI/tictactoeGH.py	/^playerOneTurn = True$/;"	kind:variable	line:8
+pop	SectionA/AI/8puzdfd.py	/^    def pop(self):$/;"	kind:member	line:12
+pop	SectionA/AI/miscandfs.py	/^    def pop(self):$/;"	kind:member	line:11
+pop	SectionA/AI/stack.py	/^def pop():$/;"	kind:function	line:4
 pos	bot_clean.py	/^    pos = [int(i) for i in input().strip().split()]$/;"	kind:variable	line:93
+pp	SectionA/AI/8puzdfd.py	/^def pp(arr,par,start):$/;"	kind:function	line:63
+pp	SectionA/AI/miscandfs.py	/^def pp(ls,s,par):$/;"	kind:function	line:173
+primMST	prims.py	/^    def primMST(self):$/;"	kind:member	line:35
+prims.py	prims.py	1;"	kind:file	line:1
+printBoard	SectionA/AI/tictactoeGH.py	/^def printBoard() :$/;"	kind:function	line:11
+printMST	prims.py	/^    def printMST(self, parent):$/;"	kind:member	line:14
+printSolution	SectionA/AI/nqueendfs.py	/^def printSolution(board, n):$/;"	kind:function	line:7
+printSolution	djikstras.py	/^    def printSolution(self, dist):$/;"	kind:member	line:15
+printSolution	hamiltonian.py	/^    def printSolution(self, path):$/;"	kind:member	line:74
 printSolution	nqueen.py	/^def printSolution(board):$/;"	kind:function	line:7
 print_all	romanian_path_self.py	/^def print_all(graph,s,d):$/;"	kind:function	line:38
 print_all_util	romanian_path_self.py	/^def print_all_util(graph,s,d,visited,path):$/;"	kind:function	line:26
+print_board	SectionA/AI/16puzzle.py	/^def print_board( state ):$/;"	kind:function	line:6
+print_board	SectionA/AI/8puzzle.py	/^def print_board( state ):$/;"	kind:function	line:6
+print_grid	sudoku.py	/^def print_grid(arr):$/;"	kind:function	line:5
 print_move	bot_clean.py	/^def print_move(delta_x, delta_y,x,y,board):$/;"	kind:function	line:51
+print_seating_arrangement	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def print_seating_arrangement():$/;"	kind:function	line:116
+print_solution	SectionA/AI/cannibalsmissionaries.py	/^def print_solution(solution):$/;"	kind:function	line:122
 print_solution	missionary_cannibal.py	/^def print_solution(solution):$/;"	kind:function	line:122
+print_state	Sayantan(lab4,5)/Lab 5/sliding_board.py	/^def print_state(state):$/;"	kind:function	line:62
+print_state	sliding_board.py	/^def print_state(state):$/;"	kind:function	line:57
+printboard	SectionA/AI/Saboo/IIT2015050_1.py	/^def printboard(board):$/;"	kind:function	line:2
+printsol	SectionA/AI/8puzzlebfs.py	/^def printsol(parent, board):$/;"	kind:function	line:43
+printsol	SectionA/AI/8puzzledfs.py	/^def printsol(parent, board):$/;"	kind:function	line:42
+printsol	SectionA/AI/8puzzleucs.py	/^def printsol(parent, board):$/;"	kind:function	line:44
+printsol	SectionA/AI/miscanucs.py	/^def printsol(parent, state):$/;"	kind:function	line:79
+printsol_iter	SectionA/AI/8puzzledfs.py	/^def printsol_iter(parent, board):$/;"	kind:function	line:50
+push	SectionA/AI/8puzdfd.py	/^    def push(self, item):$/;"	kind:member	line:9
+push	SectionA/AI/miscandfs.py	/^    def push(self, item):$/;"	kind:member	line:8
+push	SectionA/AI/stack.py	/^def push(val):$/;"	kind:function	line:2
+q	SectionA/AI/8puzzlebfs.py	/^q = Queue()$/;"	kind:variable	line:4
+q	SectionA/AI/8puzzledfs.py	/^q = []$/;"	kind:variable	line:3
+q	SectionA/AI/8puzzleucs.py	/^q = PriorityQueue()$/;"	kind:variable	line:4
+queue	SectionA/AI/n-queens_bfs.py	/^    queue = []$/;"	kind:variable	line:11
+reachTop	SectionA/AI/vacuum.py	/^	def reachTop(self, x, y):$/;"	kind:member	line:97
 readfile	15puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:158
 readfile	8puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:171
-result	knights_tour.py	/^result = bfs(adj, vis, x, y, n, m)$/;"	kind:variable	line:95
-result	vcuum_bfs_self.py	/^result = bfs(adj, vis, x, y, n, m)$/;"	kind:variable	line:107
+readfile	SectionA/AI/16puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:147
+readfile	SectionA/AI/8puzzle.py	/^def readfile( filename ):$/;"	kind:function	line:145
+recur	Arpit/saboo codes/drive-download-20171114T080828Z-001/Crypt_arithmetic.py	/^def recur(a,b,c,str,cd,map,pos):$/;"	kind:function	line:18
+recur	SectionA/AI/Saboo/Crypt_arithmetic.py	/^def recur(a,b,c,str,cd,map,pos):$/;"	kind:function	line:18
+recur	bhatia/all/Crypt_arithmetic.py	/^def recur(a,b,c,str,cd,map,pos):$/;"	kind:function	line:18
+reduce_domain	Arpit/my codes/sudoku_csp.py	/^def reduce_domain(board,x,y,dom):$/;"	kind:function	line:2
+reduce_domain	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	/^def reduce_domain(dom1,n,x,p,board):$/;"	kind:function	line:10
+reduce_domain	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	/^def reduce_domain(board,x,y,dom):$/;"	kind:function	line:2
+reduce_domain	SectionA/AI/Saboo/IIT2015050_1.py	/^def reduce_domain(board,x,y,dom):$/;"	kind:function	line:10
+reduce_domain	SectionA/AI/Saboo/nqeen_mrv.py	/^def reduce_domain(dom1,n,x,p,board):$/;"	kind:function	line:10
+reduce_domain	bhatia/all/nqeen_mrv.py	/^def reduce_domain(dom1,n,x,p,board):$/;"	kind:function	line:10
+reduce_domain	bhatia/all/sudoku_csp.py	/^def reduce_domain(board,x,y,dom):$/;"	kind:function	line:2
+remove_seat	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def remove_seat(student, seat):$/;"	kind:function	line:51
+result	knights_tour.py	/^result = bfs(adj, vis, x, y, n, m)$/;"	kind:variable	line:96
+result	vcuum_bfs_self.py	/^result = bfs(adj, vis, x, y, n, m)$/;"	kind:variable	line:134
+rfdevice	te.py	/^rfdevice = None$/;"	kind:variable	line:9
+rfdevice	te.py	/^rfdevice = RFDevice(args.gpio)$/;"	kind:variable	line:25
+rightCost	SectionA/AI/8_Puzzle_UCS.py	/^rightCost = int(input("Enter right cost") ) ;$/;"	kind:variable	line:105
+rolls	SectionA/AI/Saboo/backgammon.py	/^    rolls = input()$/;"	kind:variable	line:160
+rolls	SectionA/AI/backgammon.py	/^    rolls = input()$/;"	kind:variable	line:160
 romanian_astar.py	romanian_astar.py	1;"	kind:file	line:1
 romanian_path.py	romanian_path.py	1;"	kind:file	line:1
 romanian_path_self.py	romanian_path_self.py	1;"	kind:file	line:1
+row_rotate	Sayantan(lab4,5)/Lab 5/sliding_board.py	/^def row_rotate(state, row):$/;"	kind:function	line:6
+row_rotate	sliding_board.py	/^def row_rotate(state, row):$/;"	kind:function	line:6
+rule	SectionA/AI/vaccumucs.py	/^def rule(cstatus, x, y, c, n, m, visited):$/;"	kind:function	line:4
+run	SectionA/AI/n-queens_bfs.py	/^    def run(self):$/;"	kind:member	line:207
+run	SectionA/AI/n-queens_bfs.py	/^def run():$/;"	kind:function	line:218
+search	Sayantan(lab4,5)/Lab 5/find_gem.py	/^def search(source):$/;"	kind:function	line:44
+search	Sayantan(lab4,5)/Lab 5/find_gem_circular.py	/^def search(source):$/;"	kind:function	line:44
+search	Sayantan(lab4,5)/Lab 5/find_gem_turn.py	/^def search(source):$/;"	kind:function	line:49
+search	gem.py	/^def search(source):$/;"	kind:function	line:44
+search	gem_circular.py	/^def search(source):$/;"	kind:function	line:52
+seat_exists	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def seat_exists(x, y):$/;"	kind:function	line:16
+seating_arrangement.py	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	1;"	kind:file	line:1
+select_unass_var	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	/^def select_unass_var(dom,n,vis):$/;"	kind:function	line:2
+select_unass_var	SectionA/AI/Saboo/nqeen_mrv.py	/^def select_unass_var(dom,n,vis):$/;"	kind:function	line:2
+select_unass_var	bhatia/all/nqeen_mrv.py	/^def select_unass_var(dom,n,vis):$/;"	kind:function	line:2
+select_unassigned_var	Arpit/my codes/Map_col_mrv_dh_lcv.py	/^def select_unassigned_var(n,col,dom,adj):$/;"	kind:function	line:2
+select_unassigned_var	Arpit/saboo codes/drive-download-20171114T080828Z-001/Map_col_mrv_dh_lcv.py	/^def select_unassigned_var(n,col,dom,adj):$/;"	kind:function	line:2
+select_unassigned_var	SectionA/AI/Saboo/Map_col_mrv_dh_lcv.py	/^def select_unassigned_var(n,col,dom,adj):$/;"	kind:function	line:2
+select_unassigned_var	bhatia/all/Map_col_mrv_dh_lcv.py	/^def select_unassigned_var(n,col,dom,adj):$/;"	kind:function	line:2
+set_seat	Sayantan(lab4,5)/Lab 4/seating_arrangement.py	/^def set_seat(student, seat):$/;"	kind:function	line:40
+setup	SectionA/AI/n-queens_bfs.py	/^    def setup(self, queenNumber):$/;"	kind:member	line:16
+show	SectionA/AI/vacuum.py	/^	def show(self):$/;"	kind:member	line:27
+size	SectionA/AI/8puzdfd.py	/^    def size(self):$/;"	kind:member	line:18
+size	SectionA/AI/miscandfs.py	/^    def size(self):$/;"	kind:member	line:17
+sliding_board.py	Sayantan(lab4,5)/Lab 5/sliding_board.py	1;"	kind:file	line:1
+sliding_board.py	sliding_board.py	1;"	kind:file	line:1
+solve	SectionA/AI/miscanucs.py	/^def solve(parent):$/;"	kind:function	line:55
 solve	student_placement.py	/^def solve(graph, mat, visit ,m, n, index):$/;"	kind:function	line:42
 solveNQ	nqueen.py	/^def solveNQ():$/;"	kind:function	line:74
 solveNQUtil	nqueen.py	/^def solveNQUtil(board, col):$/;"	kind:function	line:39
+solve_nqueens	SectionA/AI/nqueendfs.py	/^def solve_nqueens(board, col, n):$/;"	kind:function	line:31
+solve_sudoku	sudoku.py	/^def solve_sudoku(arr):$/;"	kind:function	line:65
+solver	SectionA/AI/8puzzlebfs.py	/^def solver(parent):$/;"	kind:function	line:6
+solver	SectionA/AI/8puzzledfs.py	/^def solver(parent):$/;"	kind:function	line:5
+solver	SectionA/AI/8puzzleucs.py	/^def solver(parent):$/;"	kind:function	line:6
+stack.py	SectionA/AI/stack.py	1;"	kind:file	line:1
+states	SectionA/AI/NQM.py	/^states = []$/;"	kind:variable	line:4
+str	Arpit/saboo codes/drive-download-20171114T080828Z-001/Crypt_arithmetic.py	/^str=""$/;"	kind:variable	line:49
+str	SectionA/AI/Saboo/Crypt_arithmetic.py	/^str=""$/;"	kind:variable	line:49
+str	bhatia/all/Crypt_arithmetic.py	/^str=""$/;"	kind:variable	line:49
+str1	SectionA/AI/8_Puzzle_UCS.py	/^str1 = input ( "Enter final state ( in a single row )" ) ;$/;"	kind:variable	line:112
+str1	SectionA/AI/8_Puzzle_UCS.py	/^str1 = input( "Enter initial state ( in a single row ) " ) ;$/;"	kind:variable	line:106
 student_placement.py	student_placement.py	1;"	kind:file	line:1
+successors	SectionA/AI/cannibalsmissionaries.py	/^def successors(cur_state):$/;"	kind:function	line:38
 successors	missionary_cannibal.py	/^def successors(cur_state):$/;"	kind:function	line:38
+sudoku.py	sudoku.py	1;"	kind:file	line:1
+sudoku_csp.py	Arpit/my codes/sudoku_csp.py	1;"	kind:file	line:1
+sudoku_csp.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	1;"	kind:file	line:1
+sudoku_csp.py	SectionA/AI/Saboo/sudoku_csp.py	1;"	kind:file	line:1
+sudoku_csp.py	bhatia/all/sudoku_csp.py	1;"	kind:file	line:1
+t	connect_four.py	/^    t=int(input())$/;"	kind:variable	line:68
 t	student_placement.py	/^    t = t - 1$/;"	kind:variable	line:104
 t	student_placement.py	/^t= int(input())$/;"	kind:variable	line:71
-temp	knights_tour.py	/^    temp = []$/;"	kind:variable	line:84
-temp	vcuum_bfs_self.py	/^    temp = []$/;"	kind:variable	line:96
+tableSize	SectionA/AI/n-queens_bfs.py	/^    tableSize = 0$/;"	kind:variable	line:9
+take_turn	nimgame.py	/^    def take_turn(self, player):$/;"	kind:member	line:14
+te.py	te.py	1;"	kind:file	line:1
+temp	SectionA/AI/Saboo/tictactoeAlphaBeta.py	/^	temp = []$/;"	kind:variable	line:108
+temp	SectionA/AI/Saboo/tictactoeminmax.py	/^	temp = []$/;"	kind:variable	line:102
+temp	SectionA/AI/vacuum.py	/^temp = input().split(' ')$/;"	kind:variable	line:119
+temp	knights_tour.py	/^    temp = []$/;"	kind:variable	line:85
+temp	vcuum_bfs_self.py	/^    temp = []$/;"	kind:variable	line:123
+terminal_state	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	/^def terminal_state(board,maxp):$/;"	kind:function	line:2
+terminal_state	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	/^def terminal_state(board,maxp):$/;"	kind:function	line:2
+terminal_state	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^def terminal_state(board,maxp):$/;"	kind:function	line:2
+terminal_state	SectionA/AI/Saboo/minimax_tic_tac_toe.py	/^def terminal_state(board,maxp):$/;"	kind:function	line:2
+terminal_state	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	/^def terminal_state(board,maxp):$/;"	kind:function	line:2
+terminal_state	SectionA/AI/Saboo/tictacpath.py	/^def terminal_state(board,maxp):$/;"	kind:function	line:2
+terminal_state	bhatia/all/minimax_tic_tac_toe.py	/^def terminal_state(board,maxp):$/;"	kind:function	line:2
+terminal_state	bhatia/all/tic_tac_toe_alpha_beta.py	/^def terminal_state(board,maxp):$/;"	kind:function	line:2
 test.py	test.py	1;"	kind:file	line:1
+tic.py	Arpit/my codes/tic.py	1;"	kind:file	line:1
+tic_alphaBeta.py	Arpit/my codes/tic_alphaBeta.py	1;"	kind:file	line:1
+tic_evaluationFunction.py	Arpit/my codes/tic_evaluationFunction.py	1;"	kind:file	line:1
 tic_tac_toe.py	tic_tac_toe.py	1;"	kind:file	line:1
+tic_tac_toe_alpha_beta.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	1;"	kind:file	line:1
+tic_tac_toe_alpha_beta.py	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	1;"	kind:file	line:1
+tic_tac_toe_alpha_beta.py	bhatia/all/tic_tac_toe_alpha_beta.py	1;"	kind:file	line:1
+tictacpath.py	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	1;"	kind:file	line:1
+tictacpath.py	SectionA/AI/Saboo/tictacpath.py	1;"	kind:file	line:1
+tictactoeAlphaBeta.py	SectionA/AI/Saboo/tictactoeAlphaBeta.py	1;"	kind:file	line:1
+tictactoeGH.py	SectionA/AI/tictactoeGH.py	1;"	kind:file	line:1
+tictactoeminmax.py	SectionA/AI/Saboo/tictactoeminmax.py	1;"	kind:file	line:1
+timestamp	te.py	/^        timestamp = rfdevice.rx_code_timestamp$/;"	kind:variable	line:31
+timestamp	te.py	/^timestamp = None$/;"	kind:variable	line:27
 total	student_placement.py	/^    total = m * n$/;"	kind:variable	line:75
+u	SectionA/AI/N_Queen_UCS.py	/^	u = i[0] ; $/;"	kind:variable	line:80
 ucs	p_ucs(final).py	/^def ucs(grid, source, goal):$/;"	kind:function	line:22
 ucs	romanian_astar.py	/^def ucs(source, destination):$/;"	kind:function	line:35
+union	graph_undirected.py	/^	def union(self,parent,x,y):$/;"	kind:member	line:26
+union	kruskal.py	/^    def union(self, parent, rank, x, y):$/;"	kind:member	line:29
+upCost	SectionA/AI/8_Puzzle_UCS.py	/^upCost = int(input("Enter up cost") ) ;$/;"	kind:variable	line:102
+used_in_box	sudoku.py	/^def used_in_box(arr,row,col,num):$/;"	kind:function	line:46
+used_in_col	sudoku.py	/^def used_in_col(arr,col,num):$/;"	kind:function	line:38
+used_in_row	sudoku.py	/^def used_in_row(arr,row,num):$/;"	kind:function	line:30
+v	SectionA/AI/N_Queen_UCS.py	/^	v = i[1] ;$/;"	kind:variable	line:81
+vac	SectionA/AI/vacuum.py	/^vac = Vacuum(2, 2)$/;"	kind:variable	line:117
 vaccum	knights_tour.py	/^class vaccum:$/;"	kind:class	line:3
 vaccum	vcuum_bfs_self.py	/^class vaccum:$/;"	kind:class	line:2
+vaccumucs.py	SectionA/AI/vaccumucs.py	1;"	kind:file	line:1
+vacuum.py	SectionA/AI/vacuum.py	1;"	kind:file	line:1
 vacuum_bfs.py	vacuum_bfs.py	1;"	kind:file	line:1
+valid	SectionA/AI/miscanucs.py	/^def valid(leftc, leftm, rightc, rightm):$/;"	kind:function	line:3
+validate	Arpit/my codes/sudoku_csp.py	/^def validate(board,dom):$/;"	kind:function	line:29
+validate	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	/^def validate(board,dom):$/;"	kind:function	line:29
+validate	SectionA/AI/Saboo/AC3.py	/^def validate(board,dom):$/;"	kind:function	line:29
+validate	SectionA/AI/Saboo/IIT2015050_1.py	/^def validate(board,dom):$/;"	kind:function	line:37
+validate	SectionA/AI/Saboo/IIT2015050_2.py	/^def validate(board,dom):$/;"	kind:function	line:29
+validate	SectionA/AI/Saboo/sudoku_csp.py	/^def validate(board,dom):$/;"	kind:function	line:29
+validate	bhatia/all/sudoku_csp.py	/^def validate(board,dom):$/;"	kind:function	line:29
 vcuum_bfs_self.py	vcuum_bfs_self.py	1;"	kind:file	line:1
-vis	knights_tour.py	/^vis = []$/;"	kind:variable	line:81
-vis	vcuum_bfs_self.py	/^vis = []$/;"	kind:variable	line:93
+vis	Arpit/saboo codes/drive-download-20171114T080828Z-001/nqeen_mrv.py	/^vis=[0 for i in range(n)]$/;"	kind:variable	line:48
+vis	SectionA/AI/Saboo/nqeen_mrv.py	/^vis=[0 for i in range(n)]$/;"	kind:variable	line:48
+vis	SectionA/AI/a1.py	/^vis = [];$/;"	kind:variable	line:59
+vis	bhatia/all/nqeen_mrv.py	/^vis=[0 for i in range(n)]$/;"	kind:variable	line:48
+vis	knights_tour.py	/^vis = []$/;"	kind:variable	line:82
+vis	vcuum_bfs_self.py	/^vis = []$/;"	kind:variable	line:120
 visit	student_placement.py	/^    visit =[0 for x in range(100)]$/;"	kind:variable	line:86
-x	knights_tour.py	/^x = int(input())$/;"	kind:variable	line:93
-x	vcuum_bfs_self.py	/^x = int(input())$/;"	kind:variable	line:105
-y	knights_tour.py	/^y = int(input())$/;"	kind:variable	line:94
-y	vcuum_bfs_self.py	/^y = int(input())$/;"	kind:variable	line:106
+visited	SectionA/AI/8_Puzzle_UCS.py	/^visited = {} ;$/;"	kind:variable	line:115
+visited	SectionA/AI/vaccumucs.py	/^visited = []$/;"	kind:variable	line:69
+visited	knights_backtracking.py	/^visited = [[False for x in range(N)] for y in range(N)]$/;"	kind:variable	line:2
+winner	SectionA/AI/tictactoeGH.py	/^winner = False$/;"	kind:variable	line:9
+won	connect_four.py	/^    def won(self, x, y):$/;"	kind:member	line:32
+x	Arpit/my codes/sudoku_csp.py	/^    x=input().split(' ')$/;"	kind:variable	line:82
+x	Arpit/my codes/tic.py	/^    x = raw_input().split(' ')$/;"	kind:variable	line:143
+x	Arpit/my codes/tic_alphaBeta.py	/^    x = raw_input().split(' ')$/;"	kind:variable	line:121
+x	Arpit/my codes/tic_evaluationFunction.py	/^    x = raw_input().split(' ')$/;"	kind:variable	line:157
+x	Arpit/saboo codes/drive-download-20171114T080828Z-001/minimax_tic_tac_toe.py	/^    x = input()$/;"	kind:variable	line:100
+x	Arpit/saboo codes/drive-download-20171114T080828Z-001/sudoku_csp.py	/^    x=input().split(' ')$/;"	kind:variable	line:80
+x	Arpit/saboo codes/drive-download-20171114T080828Z-001/tic_tac_toe_alpha_beta.py	/^    x = input()$/;"	kind:variable	line:109
+x	Arpit/saboo codes/drive-download-20171114T080828Z-001/tictacpath.py	/^    x = raw_input()$/;"	kind:variable	line:110
+x	SectionA/AI/Saboo/AC3.py	/^    x=input().split(' ')$/;"	kind:variable	line:82
+x	SectionA/AI/Saboo/IIT2015050_1.py	/^            x=input().split(' ')$/;"	kind:variable	line:155
+x	SectionA/AI/Saboo/IIT2015050_1.py	/^    x=input().split(' ')$/;"	kind:variable	line:143
+x	SectionA/AI/Saboo/IIT2015050_2.py	/^    x=input().split(' ')$/;"	kind:variable	line:80
+x	SectionA/AI/Saboo/backgammon.py	/^        x = map(int, raw_input().strip().split())$/;"	kind:variable	line:150
+x	SectionA/AI/Saboo/minimax_tic_tac_toe.py	/^    x = input()$/;"	kind:variable	line:100
+x	SectionA/AI/Saboo/sudoku_csp.py	/^    x=input().split(' ')$/;"	kind:variable	line:80
+x	SectionA/AI/Saboo/tic_tac_toe_alpha_beta.py	/^    x = input()$/;"	kind:variable	line:109
+x	SectionA/AI/Saboo/tictacpath.py	/^    x = input()$/;"	kind:variable	line:110
+x	SectionA/AI/a1.py	/^x = random.randint(0, int(n)-1);$/;"	kind:variable	line:54
+x	SectionA/AI/backgammon.py	/^        x = map(int, raw_input().strip().split())$/;"	kind:variable	line:150
+x	SectionA/AI/vaccumucs.py	/^        x = random.randrange(2)$/;"	kind:variable	line:74
+x	SectionA/AI/vaccumucs.py	/^x = random.randrange(n)$/;"	kind:variable	line:81
+x	bhatia/all/minimax_tic_tac_toe.py	/^    x = input()$/;"	kind:variable	line:100
+x	bhatia/all/sudoku_csp.py	/^    x=input().split(' ')$/;"	kind:variable	line:80
+x	bhatia/all/tic_tac_toe_alpha_beta.py	/^    x = input()$/;"	kind:variable	line:109
+x	knights_tour.py	/^x = int(input())$/;"	kind:variable	line:94
+x	vcuum_bfs_self.py	/^x = int(input())$/;"	kind:variable	line:132
+xg	knight.py	/^xg = [2,2,-2,-2,1,1,-1,-1]$/;"	kind:variable	line:3
+y	SectionA/AI/a1.py	/^y = random.randint(0, int(m)-1);$/;"	kind:variable	line:55
+y	SectionA/AI/vaccumucs.py	/^y = random.randrange(m)$/;"	kind:variable	line:82
+y	knights_tour.py	/^y = int(input())$/;"	kind:variable	line:95
+y	vcuum_bfs_self.py	/^y = int(input())$/;"	kind:variable	line:133
+yg	knight.py	/^yg = [1,-1,1,-1,2,-2,2,-2]$/;"	kind:variable	line:4

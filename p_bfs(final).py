@@ -1,3 +1,4 @@
+#does not work properly
 from copy import deepcopy
 
 MOVES = [[-1, 0],[0, -1],[0, 1],[1, 0]]
